@@ -1,0 +1,18 @@
+Error processing game 718019: list index out of range
+Traceback (most recent call last):
+  File "/Users/calebbradshaw/PycharmProjects/baseballScraping/main.py", line 177, in create_dataset
+    logging.info(f"Score: Away {game_state.score_away} - Home {game_state.score_home}")
+  File "/Users/calebbradshaw/PycharmProjects/baseballScraping/main.py", line 328, in process_event
+    # Update the outs if an out change was reported
+  File "/Users/calebbradshaw/PycharmProjects/baseballScraping/game_state.py", line 101, in create_decision_point
+    decision_point[f"Away_Lineup_{i + 1}"] = self._get_player_representation(self.away_lineup[i], player_map)
+IndexError: list index out of range
+
+
+Error processing game 716714: not enough values to unpack (expected 2, got 0)
+Traceback (most recent call last):
+  File "/Users/calebbradshaw/PycharmProjects/baseballScraping/main.py", line 172, in create_dataset
+    for error in error_log:
+ValueError: not enough values to unpack (expected 2, got 0)
+
+

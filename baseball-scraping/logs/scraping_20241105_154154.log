@@ -1,0 +1,58 @@
+2024-11-05 15:41:55,533 - Starting scraping of 2427 games
+2024-11-05 15:41:55,557 - Game 718768 already scraped, skipping.
+2024-11-05 15:41:55,558 - Game 718769 already scraped, skipping.
+2024-11-05 15:41:55,558 - Game 718772 already scraped, skipping.
+2024-11-05 15:41:55,559 - Game 718777 already scraped, skipping.
+2024-11-05 15:41:55,559 - Game 718770 already scraped, skipping.
+2024-11-05 15:41:55,563 - Game 718767 already scraped, skipping.
+2024-11-05 15:41:55,563 - Game 718774 already scraped, skipping.
+2024-11-05 15:41:55,563 - Game 718780 already scraped, skipping.
+2024-11-05 15:41:55,567 - Game 718778 already scraped, skipping.
+2024-11-05 15:41:55,567 - Game 718779 already scraped, skipping.
+2024-11-05 15:41:55,567 - Game 718776 already scraped, skipping.
+2024-11-05 15:41:55,571 - Game 718782 already scraped, skipping.
+2024-11-05 15:41:55,571 - Game 718773 already scraped, skipping.
+2024-11-05 15:41:55,571 - Game 718775 already scraped, skipping.
+2024-11-05 15:41:55,575 - Game 718781 already scraped, skipping.
+2024-11-05 15:41:55,575 - Game 718764 already scraped, skipping.
+2024-11-05 15:41:55,575 - Game 718765 already scraped, skipping.
+2024-11-05 15:41:55,579 - Game 718763 already scraped, skipping.
+2024-11-05 15:41:55,579 - Game 718771 already scraped, skipping.
+2024-11-05 15:41:55,579 - Game 718766 already scraped, skipping.
+2024-11-05 15:41:55,579 - Game 718760 already scraped, skipping.
+2024-11-05 15:41:55,583 - Game 718757 already scraped, skipping.
+2024-11-05 15:41:55,583 - Game 718759 already scraped, skipping.
+2024-11-05 15:41:55,583 - Game 718758 already scraped, skipping.
+2024-11-05 15:41:55,587 - Game 718749 already scraped, skipping.
+2024-11-05 15:41:55,587 - Game 718746 already scraped, skipping.
+2024-11-05 15:41:55,587 - Game 718755 already scraped, skipping.
+2024-11-05 15:41:55,587 - Game 718753 already scraped, skipping.
+2024-11-05 15:41:55,587 - Game 718750 already scraped, skipping.
+2024-11-05 15:41:55,587 - Game 718752 already scraped, skipping.
+2024-11-05 15:41:55,587 - Game 718754 already scraped, skipping.
+2024-11-05 15:41:55,591 - Game 718761 already scraped, skipping.
+2024-11-05 15:41:55,591 - Game 718756 already scraped, skipping.
+2024-11-05 15:41:55,591 - Game 718751 already scraped, skipping.
+2024-11-05 15:41:55,591 - Game 718762 already scraped, skipping.
+2024-11-05 15:41:55,595 - Game 718740 already scraped, skipping.
+2024-11-05 15:41:55,595 - Game 718734 already scraped, skipping.
+2024-11-05 15:41:55,595 - Game 718737 already scraped, skipping.
+2024-11-05 15:41:55,595 - Game 718738 already scraped, skipping.
+2024-11-05 15:41:55,599 - Game 718736 already scraped, skipping.
+2024-11-05 15:41:55,599 - Game 718735 already scraped, skipping.
+2024-11-05 15:41:55,599 - Game 718741 already scraped, skipping.
+2024-11-05 15:41:55,599 - Game 718743 already scraped, skipping.
+2024-11-05 15:41:55,599 - Game 718733 already scraped, skipping.
+2024-11-05 15:41:55,603 - Game 718739 already scraped, skipping.
+2024-11-05 15:41:55,603 - Game 718742 already scraped, skipping.
+2024-11-05 15:41:55,603 - Game 718748 already scraped, skipping.
+2024-11-05 15:41:55,603 - Game 718744 already scraped, skipping.
+2024-11-05 15:41:55,607 - Game 718745 already scraped, skipping.
+2024-11-05 15:41:55,607 - Game 718747 already scraped, skipping.
+2024-11-05 15:41:55,607 - Game 718723 already scraped, skipping.
+2024-11-05 15:41:55,607 - Game 718721 already scraped, skipping.
+2024-11-05 15:41:59,565 - Failed to scrape game 718731: not enough values to unpack (expected 10, got 8)
+2024-11-05 15:42:03,630 - Failed to scrape game 718727: not enough values to unpack (expected 10, got 8)
+2024-11-05 15:42:06,095 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/7e68ddffc4f40a6b754de79790cc75c5
+2024-11-05 15:42:06,096 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1089b3fa0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7e68ddffc4f40a6b754de79790cc75c5
+2024-11-05 15:42:06,097 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1089c3100>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/7e68ddffc4f40a6b754de79790cc75c5

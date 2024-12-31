@@ -1,0 +1,4 @@
+2024-11-05 21:54:58,902 - Starting scraping of 227 games
+2024-11-05 21:55:03,333 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/c6821c96e8dca6d86b0b94e46e6f65a7
+2024-11-05 21:55:03,334 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111f771c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c6821c96e8dca6d86b0b94e46e6f65a7
+2024-11-05 21:55:03,334 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x111f771f0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/c6821c96e8dca6d86b0b94e46e6f65a7

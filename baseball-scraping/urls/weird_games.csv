@@ -1,0 +1,31 @@
+home_team,away_team,year,month,day,game_pk,home_abbr,away_abbr,box_url,summary_url
+White Sox,Giants,2023,4,5,718695,CWS,SF,https://www.mlb.com/gameday/giants-vs-white-sox/2023/04/05/718695/final/box,https://www.mlb.com/gameday/giants-vs-white-sox/2023/04/05/718695/final/summary/all
+Twins,White Sox,2023,4,10,718640,MIN,CWS,https://www.mlb.com/gameday/white-sox-vs-twins/2023/04/10/718640/final/box,https://www.mlb.com/gameday/white-sox-vs-twins/2023/04/10/718640/final/summary/all
+Padres,Brewers,2023,4,14,718574,SD,MIL,https://www.mlb.com/gameday/brewers-vs-padres/2023/04/14/718574/final/box,https://www.mlb.com/gameday/brewers-vs-padres/2023/04/14/718574/final/summary/all
+Red Sox,Twins,2023,4,18,718524,BOS,MIN,https://www.mlb.com/gameday/twins-vs-red-sox/2023/04/18/718524/final/box,https://www.mlb.com/gameday/twins-vs-red-sox/2023/04/18/718524/final/summary/all
+Reds,Rays,2023,4,19,718515,CIN,TB,https://www.mlb.com/gameday/rays-vs-reds/2023/04/19/718515/final/box,https://www.mlb.com/gameday/rays-vs-reds/2023/04/19/718515/final/summary/all
+Rangers,Athletics,2023,4,22,718469,TEX,OAK,https://www.mlb.com/gameday/athletics-vs-rangers/2023/04/22/718469/final/box,https://www.mlb.com/gameday/athletics-vs-rangers/2023/04/22/718469/final/summary/all
+D-backs,Royals,2023,4,24,718438,ARI,KC,https://www.mlb.com/gameday/royals-vs-d-backs/2023/04/24/718438/final/box,https://www.mlb.com/gameday/royals-vs-d-backs/2023/04/24/718438/final/summary/all
+Dodgers,Phillies,2023,5,1,718343,LAD,PHI,https://www.mlb.com/gameday/phillies-vs-dodgers/2023/05/01/718343/final/box,https://www.mlb.com/gameday/phillies-vs-dodgers/2023/05/01/718343/final/summary/all
+Cardinals,Tigers,2023,5,5,718292,STL,DET,https://www.mlb.com/gameday/tigers-vs-cardinals/2023/05/05/718292/final/box,https://www.mlb.com/gameday/tigers-vs-cardinals/2023/05/05/718292/final/summary/all
+Mariners,Astros,2023,5,6,718274,SEA,HOU,https://www.mlb.com/gameday/astros-vs-mariners/2023/05/06/718274/final/box,https://www.mlb.com/gameday/astros-vs-mariners/2023/05/06/718274/final/summary/all
+Brewers,Astros,2023,5,22,718068,MIL,HOU,https://www.mlb.com/gameday/astros-vs-brewers/2023/05/22/718068/final/box,https://www.mlb.com/gameday/astros-vs-brewers/2023/05/22/718068/final/summary/all
+Rays,Blue Jays,2023,5,23,718061,TB,TOR,https://www.mlb.com/gameday/blue-jays-vs-rays/2023/05/23/718061/final/box,https://www.mlb.com/gameday/blue-jays-vs-rays/2023/05/23/718061/final/summary/all
+Rockies,Marlins,2023,5,25,718033,COL,MIA,https://www.mlb.com/gameday/marlins-vs-rockies/2023/05/25/718033/final/box,https://www.mlb.com/gameday/marlins-vs-rockies/2023/05/25/718033/final/summary/all
+Brewers,Giants,2023,5,26,718017,MIL,SF,https://www.mlb.com/gameday/giants-vs-brewers/2023/05/26/718017/final/box,https://www.mlb.com/gameday/giants-vs-brewers/2023/05/26/718017/final/summary/all
+Mariners,Pirates,2023,5,28,717983,SEA,PIT,https://www.mlb.com/gameday/pirates-vs-mariners/2023/05/28/717983/final/box,https://www.mlb.com/gameday/pirates-vs-mariners/2023/05/28/717983/final/summary/all
+Giants,Pirates,2023,5,29,717978,SF,PIT,https://www.mlb.com/gameday/pirates-vs-giants/2023/05/29/717978/final/box,https://www.mlb.com/gameday/pirates-vs-giants/2023/05/29/717978/final/summary/all
+D-backs,Rockies,2023,6,1,717933,ARI,COL,https://www.mlb.com/gameday/rockies-vs-d-backs/2023/06/01/717933/final/box,https://www.mlb.com/gameday/rockies-vs-d-backs/2023/06/01/717933/final/summary/all
+Dodgers,Yankees,2023,6,3,717905,LAD,NYY,https://www.mlb.com/gameday/yankees-vs-dodgers/2023/06/03/717905/final/box,https://www.mlb.com/gameday/yankees-vs-dodgers/2023/06/03/717905/final/summary/all
+Rangers,Mariners,2023,6,3,717912,TEX,SEA,https://www.mlb.com/gameday/mariners-vs-rangers/2023/06/03/717912/final/box,https://www.mlb.com/gameday/mariners-vs-rangers/2023/06/03/717912/final/summary/all
+Padres,Mariners,2023,6,6,717864,SD,SEA,https://www.mlb.com/gameday/mariners-vs-padres/2023/06/06/717864/final/box,https://www.mlb.com/gameday/mariners-vs-padres/2023/06/06/717864/final/summary/all
+Rangers,Cardinals,2023,6,7,717854,TEX,STL,https://www.mlb.com/gameday/cardinals-vs-rangers/2023/06/07/717854/final/box,https://www.mlb.com/gameday/cardinals-vs-rangers/2023/06/07/717854/final/summary/all
+Dodgers,White Sox,2023,6,15,717748,LAD,CWS,https://www.mlb.com/gameday/white-sox-vs-dodgers/2023/06/15/717748/final/box,https://www.mlb.com/gameday/white-sox-vs-dodgers/2023/06/15/717748/final/summary/all
+Dodgers,Giants,2023,6,16,717731,LAD,SF,https://www.mlb.com/gameday/giants-vs-dodgers/2023/06/16/717731/final/box,https://www.mlb.com/gameday/giants-vs-dodgers/2023/06/16/717731/final/summary/all
+Mariners,White Sox,2023,6,17,717722,SEA,CWS,https://www.mlb.com/gameday/white-sox-vs-mariners/2023/06/17/717722/final/box,https://www.mlb.com/gameday/white-sox-vs-mariners/2023/06/17/717722/final/summary/all
+Astros,Reds,2023,6,18,717707,HOU,CIN,https://www.mlb.com/gameday/reds-vs-astros/2023/06/18/717707/final/box,https://www.mlb.com/gameday/reds-vs-astros/2023/06/18/717707/final/summary/all
+D-backs,Guardians,2023,6,18,717706,ARI,CLE,https://www.mlb.com/gameday/guardians-vs-d-backs/2023/06/18/717706/final/box,https://www.mlb.com/gameday/guardians-vs-d-backs/2023/06/18/717706/final/summary/all
+Twins,Tigers,2023,6,18,717711,MIN,DET,https://www.mlb.com/gameday/tigers-vs-twins/2023/06/18/717711/final/box,https://www.mlb.com/gameday/tigers-vs-twins/2023/06/18/717711/final/summary/all
+Royals,Guardians,2023,6,29,717573,KC,CLE,https://www.mlb.com/gameday/guardians-vs-royals/2023/06/29/717573/final/box,https://www.mlb.com/gameday/guardians-vs-royals/2023/06/29/717573/final/summary/all
+d-backs,cubs,2023,9,16,716558,AZ,CHC,https://www.mlb.com/gameday/cubs-vs-d-backs/2023/09/16/716558/final/box,https://www.mlb.com/gameday/cubs-vs-d-backs/2023/09/16/716558/final/summary/all
+angels,dodgers,2023,6,21,717662,LAA,LAD,https://www.mlb.com/gameday/dodgers-vs-angels/2023/06/21/717662/final/box,https://www.mlb.com/gameday/dodgers-vs-angels/2023/06/21/717662/final/summary/all

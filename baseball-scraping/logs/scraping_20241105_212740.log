@@ -1,0 +1,2427 @@
+2024-11-05 21:27:41,036 - Starting scraping of 2426 games
+2024-11-05 21:27:41,102 - Game 718769 already scraped, skipping.
+2024-11-05 21:27:41,104 - Game 718772 already scraped, skipping.
+2024-11-05 21:27:41,110 - Game 718777 already scraped, skipping.
+2024-11-05 21:27:41,111 - Game 718770 already scraped, skipping.
+2024-11-05 21:27:41,116 - Game 718767 already scraped, skipping.
+2024-11-05 21:27:41,120 - Game 718774 already scraped, skipping.
+2024-11-05 21:27:41,127 - Game 718780 already scraped, skipping.
+2024-11-05 21:27:41,129 - Game 718778 already scraped, skipping.
+2024-11-05 21:27:41,132 - Game 718779 already scraped, skipping.
+2024-11-05 21:27:41,132 - Game 718776 already scraped, skipping.
+2024-11-05 21:27:41,136 - Game 718782 already scraped, skipping.
+2024-11-05 21:27:41,136 - Game 718773 already scraped, skipping.
+2024-11-05 21:27:41,136 - Game 718775 already scraped, skipping.
+2024-11-05 21:27:41,140 - Game 718781 already scraped, skipping.
+2024-11-05 21:27:41,140 - Game 718764 already scraped, skipping.
+2024-11-05 21:27:41,140 - Game 718765 already scraped, skipping.
+2024-11-05 21:27:41,144 - Game 718763 already scraped, skipping.
+2024-11-05 21:27:41,148 - Game 718771 already scraped, skipping.
+2024-11-05 21:27:41,152 - Game 718766 already scraped, skipping.
+2024-11-05 21:27:41,152 - Game 718760 already scraped, skipping.
+2024-11-05 21:27:41,152 - Game 718757 already scraped, skipping.
+2024-11-05 21:27:41,156 - Game 718759 already scraped, skipping.
+2024-11-05 21:27:41,156 - Game 718758 already scraped, skipping.
+2024-11-05 21:27:41,160 - Game 718749 already scraped, skipping.
+2024-11-05 21:27:41,160 - Game 718746 already scraped, skipping.
+2024-11-05 21:27:41,164 - Game 718755 already scraped, skipping.
+2024-11-05 21:27:41,168 - Game 718753 already scraped, skipping.
+2024-11-05 21:27:41,168 - Game 718750 already scraped, skipping.
+2024-11-05 21:27:41,172 - Game 718752 already scraped, skipping.
+2024-11-05 21:27:41,176 - Game 718754 already scraped, skipping.
+2024-11-05 21:27:41,180 - Game 718761 already scraped, skipping.
+2024-11-05 21:27:41,184 - Game 718756 already scraped, skipping.
+2024-11-05 21:27:41,184 - Game 718751 already scraped, skipping.
+2024-11-05 21:27:41,184 - Game 718762 already scraped, skipping.
+2024-11-05 21:27:41,184 - Game 718740 already scraped, skipping.
+2024-11-05 21:27:41,184 - Game 718734 already scraped, skipping.
+2024-11-05 21:27:41,184 - Game 718737 already scraped, skipping.
+2024-11-05 21:27:41,184 - Game 718738 already scraped, skipping.
+2024-11-05 21:27:41,184 - Game 718736 already scraped, skipping.
+2024-11-05 21:27:41,185 - Game 718735 already scraped, skipping.
+2024-11-05 21:27:41,185 - Game 718741 already scraped, skipping.
+2024-11-05 21:27:41,185 - Game 718743 already scraped, skipping.
+2024-11-05 21:27:41,185 - Game 718733 already scraped, skipping.
+2024-11-05 21:27:41,185 - Game 718739 already scraped, skipping.
+2024-11-05 21:27:41,185 - Game 718742 already scraped, skipping.
+2024-11-05 21:27:41,185 - Game 718748 already scraped, skipping.
+2024-11-05 21:27:41,185 - Game 718744 already scraped, skipping.
+2024-11-05 21:27:41,185 - Game 718745 already scraped, skipping.
+2024-11-05 21:27:41,185 - Game 718747 already scraped, skipping.
+2024-11-05 21:27:41,186 - Game 718723 already scraped, skipping.
+2024-11-05 21:27:41,186 - Game 718721 already scraped, skipping.
+2024-11-05 21:27:41,186 - Game 718731 already scraped, skipping.
+2024-11-05 21:27:41,186 - Game 718727 already scraped, skipping.
+2024-11-05 21:27:41,186 - Game 718718 already scraped, skipping.
+2024-11-05 21:27:41,187 - Game 718720 already scraped, skipping.
+2024-11-05 21:27:41,187 - Game 718729 already scraped, skipping.
+2024-11-05 21:27:41,187 - Game 718732 already scraped, skipping.
+2024-11-05 21:27:41,187 - Game 718722 already scraped, skipping.
+2024-11-05 21:27:41,187 - Game 718726 already scraped, skipping.
+2024-11-05 21:27:41,187 - Game 718724 already scraped, skipping.
+2024-11-05 21:27:41,188 - Game 718728 already scraped, skipping.
+2024-11-05 21:27:41,188 - Game 718719 already scraped, skipping.
+2024-11-05 21:27:41,188 - Game 718730 already scraped, skipping.
+2024-11-05 21:27:41,188 - Game 718725 already scraped, skipping.
+2024-11-05 21:27:41,188 - Game 718705 already scraped, skipping.
+2024-11-05 21:27:41,189 - Game 718707 already scraped, skipping.
+2024-11-05 21:27:41,189 - Game 718712 already scraped, skipping.
+2024-11-05 21:27:41,189 - Game 718711 already scraped, skipping.
+2024-11-05 21:27:41,189 - Game 718703 already scraped, skipping.
+2024-11-05 21:27:41,189 - Game 718706 already scraped, skipping.
+2024-11-05 21:27:41,189 - Game 718714 already scraped, skipping.
+2024-11-05 21:27:41,190 - Game 718715 already scraped, skipping.
+2024-11-05 21:27:41,190 - Game 718717 already scraped, skipping.
+2024-11-05 21:27:41,190 - Game 718709 already scraped, skipping.
+2024-11-05 21:27:41,190 - Game 718713 already scraped, skipping.
+2024-11-05 21:27:41,190 - Game 718716 already scraped, skipping.
+2024-11-05 21:27:41,190 - Game 718708 already scraped, skipping.
+2024-11-05 21:27:41,190 - Game 718710 already scraped, skipping.
+2024-11-05 21:27:41,190 - Game 718696 already scraped, skipping.
+2024-11-05 21:27:41,190 - Game 718689 already scraped, skipping.
+2024-11-05 21:27:41,190 - Game 718698 already scraped, skipping.
+2024-11-05 21:27:41,191 - Game 718697 already scraped, skipping.
+2024-11-05 21:27:41,191 - Game 718691 already scraped, skipping.
+2024-11-05 21:27:41,191 - Game 718701 already scraped, skipping.
+2024-11-05 21:27:41,191 - Game 718704 already scraped, skipping.
+2024-11-05 21:27:41,191 - Game 718694 already scraped, skipping.
+2024-11-05 21:27:41,191 - Game 718702 already scraped, skipping.
+2024-11-05 21:27:41,191 - Game 718692 already scraped, skipping.
+2024-11-05 21:27:41,191 - Game 718695 already scraped, skipping.
+2024-11-05 21:27:41,192 - Game 718699 already scraped, skipping.
+2024-11-05 21:27:41,192 - Game 718681 already scraped, skipping.
+2024-11-05 21:27:41,192 - Game 718683 already scraped, skipping.
+2024-11-05 21:27:41,192 - Game 718682 already scraped, skipping.
+2024-11-05 21:27:41,192 - Game 718686 already scraped, skipping.
+2024-11-05 21:27:41,192 - Game 718690 already scraped, skipping.
+2024-11-05 21:27:41,192 - Game 718687 already scraped, skipping.
+2024-11-05 21:27:41,193 - Game 718670 already scraped, skipping.
+2024-11-05 21:27:41,193 - Game 718676 already scraped, skipping.
+2024-11-05 21:27:41,193 - Game 718674 already scraped, skipping.
+2024-11-05 21:27:41,193 - Game 718675 already scraped, skipping.
+2024-11-05 21:27:41,193 - Game 718671 already scraped, skipping.
+2024-11-05 21:27:41,194 - Game 718680 already scraped, skipping.
+2024-11-05 21:27:41,194 - Game 718677 already scraped, skipping.
+2024-11-05 21:27:41,194 - Game 718693 already scraped, skipping.
+2024-11-05 21:27:41,194 - Game 718688 already scraped, skipping.
+2024-11-05 21:27:41,194 - Game 718685 already scraped, skipping.
+2024-11-05 21:27:41,194 - Game 718679 already scraped, skipping.
+2024-11-05 21:27:41,194 - Game 718678 already scraped, skipping.
+2024-11-05 21:27:41,194 - Game 718673 already scraped, skipping.
+2024-11-05 21:27:41,194 - Game 718684 already scraped, skipping.
+2024-11-05 21:27:41,194 - Game 718657 already scraped, skipping.
+2024-11-05 21:27:41,194 - Game 718659 already scraped, skipping.
+2024-11-05 21:27:41,195 - Game 718660 already scraped, skipping.
+2024-11-05 21:27:41,195 - Game 718669 already scraped, skipping.
+2024-11-05 21:27:41,195 - Game 718656 already scraped, skipping.
+2024-11-05 21:27:41,195 - Game 718672 already scraped, skipping.
+2024-11-05 21:27:41,195 - Game 718663 already scraped, skipping.
+2024-11-05 21:27:41,195 - Game 718661 already scraped, skipping.
+2024-11-05 21:27:41,195 - Game 718664 already scraped, skipping.
+2024-11-05 21:27:41,195 - Game 718668 already scraped, skipping.
+2024-11-05 21:27:41,195 - Game 718662 already scraped, skipping.
+2024-11-05 21:27:41,196 - Game 718665 already scraped, skipping.
+2024-11-05 21:27:41,196 - Game 718658 already scraped, skipping.
+2024-11-05 21:27:41,196 - Game 718667 already scraped, skipping.
+2024-11-05 21:27:41,196 - Game 718666 already scraped, skipping.
+2024-11-05 21:27:41,196 - Game 718644 already scraped, skipping.
+2024-11-05 21:27:41,196 - Game 718648 already scraped, skipping.
+2024-11-05 21:27:41,196 - Game 718650 already scraped, skipping.
+2024-11-05 21:27:41,196 - Game 718642 already scraped, skipping.
+2024-11-05 21:27:41,196 - Game 718639 already scraped, skipping.
+2024-11-05 21:27:41,196 - Game 718643 already scraped, skipping.
+2024-11-05 21:27:41,196 - Game 718646 already scraped, skipping.
+2024-11-05 21:27:41,197 - Game 718647 already scraped, skipping.
+2024-11-05 21:27:41,197 - Game 718651 already scraped, skipping.
+2024-11-05 21:27:41,197 - Game 718652 already scraped, skipping.
+2024-11-05 21:27:41,197 - Game 718653 already scraped, skipping.
+2024-11-05 21:27:41,197 - Game 718655 already scraped, skipping.
+2024-11-05 21:27:41,197 - Game 718645 already scraped, skipping.
+2024-11-05 21:27:41,197 - Game 718654 already scraped, skipping.
+2024-11-05 21:27:41,197 - Game 718649 already scraped, skipping.
+2024-11-05 21:27:41,197 - Game 718631 already scraped, skipping.
+2024-11-05 21:27:41,197 - Game 718636 already scraped, skipping.
+2024-11-05 21:28:56,578 - Game 718628 scraped successfully in 75.38 seconds
+2024-11-05 21:28:57,588 - Game 718627 already scraped, skipping.
+2024-11-05 21:29:11,536 - Game 718641 scraped successfully in 13.95 seconds
+2024-11-05 21:29:26,900 - Game 718637 scraped successfully in 14.35 seconds
+2024-11-05 21:29:40,522 - Game 718634 scraped successfully in 12.60 seconds
+2024-11-05 21:29:53,074 - Game 718635 scraped successfully in 11.55 seconds
+2024-11-05 21:30:06,026 - Game 718633 scraped successfully in 11.95 seconds
+2024-11-05 21:30:18,249 - Game 718632 scraped successfully in 11.22 seconds
+2024-11-05 21:30:31,507 - Game 718630 scraped successfully in 12.25 seconds
+2024-11-05 21:30:46,164 - Game 718638 scraped successfully in 13.65 seconds
+2024-11-05 21:31:02,328 - Game 718629 scraped successfully in 15.16 seconds
+2024-11-05 21:31:19,715 - Game 718640 scraped successfully in 16.38 seconds
+2024-11-05 21:31:35,253 - Game 718614 scraped successfully in 14.53 seconds
+2024-11-05 21:31:51,106 - Game 718622 scraped successfully in 14.85 seconds
+2024-11-05 21:33:07,445 - Game 718620 scraped successfully in 75.34 seconds
+2024-11-05 21:34:28,814 - Game 718617 scraped successfully in 80.35 seconds
+2024-11-05 21:34:46,152 - Game 718611 scraped successfully in 16.31 seconds
+2024-11-05 21:35:03,899 - Game 718624 scraped successfully in 16.73 seconds
+2024-11-05 21:35:19,705 - Game 718626 scraped successfully in 14.80 seconds
+2024-11-05 21:35:33,126 - Game 718621 scraped successfully in 12.41 seconds
+2024-11-05 21:35:50,699 - Game 718618 scraped successfully in 16.54 seconds
+2024-11-05 21:36:06,354 - Game 718619 scraped successfully in 14.65 seconds
+2024-11-05 21:36:25,762 - Game 718623 scraped successfully in 18.36 seconds
+2024-11-05 21:36:55,309 - Game 718615 scraped successfully in 28.51 seconds
+2024-11-05 21:37:15,042 - Game 718625 scraped successfully in 18.70 seconds
+2024-11-05 21:37:30,795 - Game 718613 scraped successfully in 14.62 seconds
+2024-11-05 21:37:49,699 - Game 718616 scraped successfully in 17.90 seconds
+2024-11-05 21:39:03,642 - Game 718602 scraped successfully in 72.94 seconds
+2024-11-05 21:39:15,049 - Game 718603 scraped successfully in 10.40 seconds
+2024-11-05 21:39:23,856 - Game 718601 scraped successfully in 7.80 seconds
+2024-11-05 21:39:32,930 - Game 718606 scraped successfully in 8.07 seconds
+2024-11-05 21:39:47,291 - Game 718598 scraped successfully in 13.33 seconds
+2024-11-05 21:40:04,558 - Game 718612 scraped successfully in 16.26 seconds
+2024-11-05 21:40:21,859 - Game 718604 scraped successfully in 16.25 seconds
+2024-11-05 21:40:38,497 - Game 718610 scraped successfully in 15.63 seconds
+2024-11-05 21:40:49,958 - Game 718599 scraped successfully in 10.45 seconds
+2024-11-05 21:40:59,317 - Game 718609 scraped successfully in 8.33 seconds
+2024-11-05 21:41:09,132 - Game 718608 scraped successfully in 8.80 seconds
+2024-11-05 21:41:18,436 - Game 718595 scraped successfully in 8.30 seconds
+2024-11-05 21:41:29,214 - Game 718600 scraped successfully in 9.77 seconds
+2024-11-05 21:41:39,171 - Game 718607 scraped successfully in 8.95 seconds
+2024-11-05 21:41:55,055 - Game 718605 scraped successfully in 14.87 seconds
+2024-11-05 21:42:14,814 - Game 718593 scraped successfully in 18.74 seconds
+2024-11-05 21:42:28,208 - Game 718591 scraped successfully in 12.38 seconds
+2024-11-05 21:42:44,681 - Game 718596 scraped successfully in 15.46 seconds
+2024-11-05 21:43:02,309 - Game 718589 scraped successfully in 16.62 seconds
+2024-11-05 21:43:17,769 - Game 718594 scraped successfully in 14.44 seconds
+2024-11-05 21:43:30,358 - Game 718597 scraped successfully in 11.58 seconds
+2024-11-05 21:43:41,766 - Game 718590 scraped successfully in 10.40 seconds
+2024-11-05 21:43:51,850 - Game 718581 scraped successfully in 9.08 seconds
+2024-11-05 21:44:03,324 - Game 718578 scraped successfully in 10.45 seconds
+2024-11-05 21:44:14,053 - Game 718587 scraped successfully in 9.72 seconds
+2024-11-05 21:44:27,322 - Game 718582 scraped successfully in 12.26 seconds
+2024-11-05 21:44:43,429 - Game 718575 scraped successfully in 15.10 seconds
+2024-11-05 21:44:58,707 - Game 718577 scraped successfully in 14.27 seconds
+2024-11-05 21:45:13,688 - Game 718584 scraped successfully in 13.97 seconds
+2024-11-05 21:45:28,535 - Game 718592 scraped successfully in 13.84 seconds
+2024-11-05 21:45:44,317 - Game 718574 scraped successfully in 14.78 seconds
+2024-11-05 21:45:59,709 - Game 718580 scraped successfully in 14.00 seconds
+2024-11-05 21:46:15,200 - Game 718586 scraped successfully in 14.47 seconds
+2024-11-05 21:46:28,530 - Game 718579 scraped successfully in 12.32 seconds
+2024-11-05 21:47:43,375 - Game 718585 scraped successfully in 73.84 seconds
+2024-11-05 21:47:59,447 - Game 718583 scraped successfully in 15.06 seconds
+2024-11-05 21:48:14,280 - Game 718588 scraped successfully in 13.81 seconds
+2024-11-05 21:48:26,196 - Game 718562 scraped successfully in 10.89 seconds
+2024-11-05 21:48:41,717 - Game 718565 scraped successfully in 14.37 seconds
+2024-11-05 21:49:01,737 - Game 718569 scraped successfully in 19.01 seconds
+2024-11-05 21:49:15,935 - Game 718568 scraped successfully in 12.74 seconds
+2024-11-05 21:49:26,679 - Game 718564 scraped successfully in 9.69 seconds
+2024-11-05 21:49:39,129 - Game 718561 scraped successfully in 11.45 seconds
+2024-11-05 21:50:00,107 - Game 718567 scraped successfully in 19.83 seconds
+2024-11-05 21:51:03,228 - Game 718573 scraped successfully in 62.11 seconds
+2024-11-05 21:52:28,822 - Game 718560 scraped successfully in 82.19 seconds
+2024-11-05 21:52:48,437 - Game 718576 scraped successfully in 18.61 seconds
+2024-11-05 21:53:03,926 - Game 718566 scraped successfully in 14.48 seconds
+2024-11-05 21:53:17,496 - Game 718563 scraped successfully in 12.54 seconds
+2024-11-05 21:53:30,737 - Game 718571 scraped successfully in 12.23 seconds
+2024-11-05 21:53:44,153 - Game 718570 scraped successfully in 12.41 seconds
+2024-11-05 21:53:56,632 - Game 718572 scraped successfully in 11.47 seconds
+2024-11-05 21:54:09,764 - Game 718552 scraped successfully in 12.12 seconds
+2024-11-05 21:54:23,262 - Game 718546 scraped successfully in 12.50 seconds
+2024-11-05 21:54:35,664 - Game 718556 scraped successfully in 11.39 seconds
+2024-11-05 21:54:49,503 - Game 718548 scraped successfully in 12.83 seconds
+2024-11-05 21:55:02,755 - Game 718547 scraped successfully in 12.18 seconds
+2024-11-05 21:55:17,199 - Game 718545 scraped successfully in 13.44 seconds
+2024-11-05 21:55:31,891 - Game 718550 scraped successfully in 13.69 seconds
+2024-11-05 21:55:45,130 - Game 718555 scraped successfully in 12.23 seconds
+2024-11-05 21:55:57,596 - Game 718549 scraped successfully in 11.46 seconds
+2024-11-05 21:56:10,944 - Game 718559 scraped successfully in 12.34 seconds
+2024-11-05 21:56:28,149 - Game 718554 scraped successfully in 16.20 seconds
+2024-11-05 21:56:42,632 - Game 718551 scraped successfully in 13.00 seconds
+2024-11-05 21:56:57,393 - Game 718553 scraped successfully in 13.75 seconds
+2024-11-05 21:57:10,550 - Game 718557 scraped successfully in 12.15 seconds
+2024-11-05 21:57:40,909 - Game 718537 scraped successfully in 29.35 seconds
+2024-11-05 21:58:51,465 - Game 718536 scraped successfully in 69.55 seconds
+2024-11-05 21:59:04,260 - Game 718538 scraped successfully in 11.65 seconds
+2024-11-05 21:59:21,944 - Game 718532 scraped successfully in 16.68 seconds
+2024-11-05 21:59:39,070 - Game 718534 scraped successfully in 16.12 seconds
+2024-11-05 22:00:54,562 - Game 718544 scraped successfully in 74.49 seconds
+2024-11-05 22:01:10,826 - Game 718533 scraped successfully in 15.26 seconds
+2024-11-05 22:01:28,968 - Game 718540 scraped successfully in 17.14 seconds
+2024-11-05 22:01:46,143 - Game 718542 scraped successfully in 16.17 seconds
+2024-11-05 22:02:04,978 - Game 718535 scraped successfully in 17.83 seconds
+2024-11-05 22:02:20,630 - Game 718539 scraped successfully in 14.65 seconds
+2024-11-05 22:02:36,118 - Game 718520 scraped successfully in 14.47 seconds
+2024-11-05 22:02:51,014 - Game 718523 scraped successfully in 13.88 seconds
+2024-11-05 22:03:05,660 - Game 718527 scraped successfully in 13.64 seconds
+2024-11-05 22:03:18,447 - Game 718516 scraped successfully in 11.78 seconds
+2024-11-05 22:03:34,114 - Game 718517 scraped successfully in 14.66 seconds
+2024-11-05 22:03:48,377 - Game 718528 scraped successfully in 13.26 seconds
+2024-11-05 22:04:00,836 - Game 718531 scraped successfully in 11.45 seconds
+2024-11-05 22:04:15,115 - Game 718519 scraped successfully in 13.27 seconds
+2024-11-05 22:04:30,649 - Game 718524 scraped successfully in 14.52 seconds
+2024-11-05 22:05:46,218 - Game 718526 scraped successfully in 74.27 seconds
+2024-11-05 22:06:03,867 - Game 718521 scraped successfully in 16.57 seconds
+2024-11-05 22:06:23,843 - Game 718522 scraped successfully in 18.96 seconds
+2024-11-05 22:06:42,544 - Game 718530 scraped successfully in 17.69 seconds
+2024-11-05 22:06:59,803 - Game 718541 scraped successfully in 16.25 seconds
+2024-11-05 22:07:19,240 - Game 718525 scraped successfully in 18.43 seconds
+2024-11-05 22:07:37,931 - Game 718543 scraped successfully in 17.65 seconds
+2024-11-05 22:07:56,900 - Game 718529 scraped successfully in 17.97 seconds
+2024-11-05 22:08:20,300 - Game 718501 scraped successfully in 22.39 seconds
+2024-11-05 22:08:42,128 - Game 718506 scraped successfully in 20.82 seconds
+2024-11-05 22:08:59,431 - Game 718512 scraped successfully in 16.29 seconds
+2024-11-05 22:09:16,305 - Game 718508 scraped successfully in 15.87 seconds
+2024-11-05 22:09:32,446 - Game 718502 scraped successfully in 15.13 seconds
+2024-11-05 22:09:48,543 - Game 718511 scraped successfully in 15.09 seconds
+2024-11-05 22:10:03,590 - Game 718518 scraped successfully in 13.68 seconds
+2024-11-05 22:10:19,756 - Game 718507 scraped successfully in 15.16 seconds
+2024-11-05 22:10:35,933 - Game 718505 scraped successfully in 15.17 seconds
+2024-11-05 22:10:53,444 - Game 718515 scraped successfully in 16.51 seconds
+2024-11-05 22:11:12,382 - Game 718509 scraped successfully in 17.93 seconds
+2024-11-05 22:11:29,785 - Game 718514 scraped successfully in 16.34 seconds
+2024-11-05 22:11:47,217 - Game 718513 scraped successfully in 16.43 seconds
+2024-11-05 22:12:01,737 - Game 718510 scraped successfully in 13.51 seconds
+2024-11-05 22:12:15,379 - Game 718504 scraped successfully in 12.64 seconds
+2024-11-05 22:12:28,794 - Game 718499 scraped successfully in 12.41 seconds
+2024-11-05 22:12:42,320 - Game 718494 scraped successfully in 12.52 seconds
+2024-11-05 22:12:58,108 - Game 718503 scraped successfully in 14.78 seconds
+2024-11-05 22:14:09,513 - Game 718498 scraped successfully in 70.40 seconds
+2024-11-05 22:14:20,501 - Game 718500 scraped successfully in 9.98 seconds
+2024-11-05 22:14:35,696 - Game 718497 scraped successfully in 14.19 seconds
+2024-11-05 22:14:52,685 - Game 718496 scraped successfully in 15.98 seconds
+2024-11-05 22:15:07,602 - Game 718485 scraped successfully in 13.91 seconds
+2024-11-05 22:15:26,084 - Game 718489 scraped successfully in 17.48 seconds
+2024-11-05 22:15:45,162 - Game 718483 scraped successfully in 17.99 seconds
+2024-11-05 22:16:05,585 - Game 718491 scraped successfully in 19.42 seconds
+2024-11-05 22:16:24,111 - Game 718484 scraped successfully in 17.52 seconds
+2024-11-05 22:16:44,154 - Game 718480 scraped successfully in 19.03 seconds
+2024-11-05 22:17:04,811 - Game 718481 scraped successfully in 19.65 seconds
+2024-11-05 22:17:25,822 - Game 718495 scraped successfully in 20.00 seconds
+2024-11-05 22:17:46,153 - Game 718493 scraped successfully in 19.32 seconds
+2024-11-05 22:18:04,771 - Game 718492 scraped successfully in 17.61 seconds
+2024-11-05 22:18:25,203 - Game 718490 scraped successfully in 19.43 seconds
+2024-11-05 22:18:44,539 - Game 718486 scraped successfully in 18.33 seconds
+2024-11-05 22:19:04,007 - Game 718482 scraped successfully in 18.46 seconds
+2024-11-05 22:19:25,266 - Game 718487 scraped successfully in 20.25 seconds
+2024-11-05 22:19:45,508 - Game 718466 scraped successfully in 19.23 seconds
+2024-11-05 22:20:05,315 - Game 718471 scraped successfully in 18.80 seconds
+2024-11-05 22:20:27,626 - Game 718470 scraped successfully in 21.30 seconds
+2024-11-05 22:20:49,343 - Game 718479 scraped successfully in 20.70 seconds
+2024-11-05 22:21:11,055 - Game 718467 scraped successfully in 20.71 seconds
+2024-11-05 22:21:33,545 - Game 718478 scraped successfully in 21.48 seconds
+2024-11-05 22:21:55,921 - Game 718473 scraped successfully in 21.37 seconds
+2024-11-05 22:22:18,162 - Game 718488 scraped successfully in 21.23 seconds
+2024-11-05 22:22:39,763 - Game 718464 scraped successfully in 20.60 seconds
+2024-11-05 22:22:59,437 - Game 718472 scraped successfully in 18.67 seconds
+2024-11-05 22:23:19,519 - Game 718475 scraped successfully in 19.08 seconds
+2024-11-05 22:23:39,365 - Game 718474 scraped successfully in 18.84 seconds
+2024-11-05 22:23:59,162 - Game 718469 scraped successfully in 18.79 seconds
+2024-11-05 22:24:18,924 - Game 718477 scraped successfully in 18.75 seconds
+2024-11-05 22:24:38,966 - Game 718468 scraped successfully in 19.03 seconds
+2024-11-05 22:24:58,878 - Game 718476 scraped successfully in 18.91 seconds
+2024-11-05 22:25:20,516 - Game 718452 scraped successfully in 20.63 seconds
+2024-11-05 22:25:40,918 - Game 718462 scraped successfully in 19.40 seconds
+2024-11-05 22:26:03,944 - Game 718461 scraped successfully in 22.02 seconds
+2024-11-05 22:26:23,937 - Game 718451 scraped successfully in 18.99 seconds
+2024-11-05 22:26:40,105 - Game 718456 scraped successfully in 15.16 seconds
+2024-11-05 22:26:53,123 - Game 718455 scraped successfully in 12.01 seconds
+2024-11-05 22:27:05,772 - Game 718460 scraped successfully in 11.64 seconds
+2024-11-05 22:27:18,182 - Game 718450 scraped successfully in 11.41 seconds
+2024-11-05 22:27:31,531 - Game 718459 scraped successfully in 12.34 seconds
+2024-11-05 22:27:48,831 - Game 718458 scraped successfully in 16.29 seconds
+2024-11-05 22:28:05,222 - Game 718463 scraped successfully in 15.38 seconds
+2024-11-05 22:28:21,354 - Game 718453 scraped successfully in 15.12 seconds
+2024-11-05 22:28:37,195 - Game 718457 scraped successfully in 14.83 seconds
+2024-11-05 22:28:52,213 - Game 718454 scraped successfully in 14.01 seconds
+2024-11-05 22:29:06,978 - Game 718465 scraped successfully in 13.75 seconds
+2024-11-05 22:29:23,286 - Game 718437 scraped successfully in 15.30 seconds
+2024-11-05 22:29:38,553 - Game 718444 scraped successfully in 14.11 seconds
+2024-11-05 22:29:57,201 - Game 718443 scraped successfully in 17.64 seconds
+2024-11-05 22:30:16,082 - Game 718441 scraped successfully in 17.87 seconds
+2024-11-05 22:30:34,915 - Game 718438 scraped successfully in 17.82 seconds
+2024-11-05 22:30:52,258 - Game 718446 scraped successfully in 16.33 seconds
+2024-11-05 22:31:11,603 - Game 718448 scraped successfully in 18.33 seconds
+2024-11-05 22:31:31,752 - Game 718447 scraped successfully in 19.14 seconds
+2024-11-05 22:31:50,474 - Game 718449 scraped successfully in 17.71 seconds
+2024-11-05 22:32:07,250 - Game 718445 scraped successfully in 15.77 seconds
+2024-11-05 22:32:24,445 - Game 718442 scraped successfully in 16.19 seconds
+2024-11-05 22:32:41,918 - Game 718425 scraped successfully in 16.46 seconds
+2024-11-05 22:33:04,090 - Game 718433 scraped successfully in 21.16 seconds
+2024-11-05 22:33:26,014 - Game 718429 scraped successfully in 20.92 seconds
+2024-11-05 22:34:53,407 - Game 718428 scraped successfully in 86.37 seconds
+2024-11-05 22:35:09,651 - Game 718426 scraped successfully in 15.24 seconds
+2024-11-05 22:35:26,654 - Game 718422 scraped successfully in 15.99 seconds
+2024-11-05 22:35:39,454 - Game 718439 scraped successfully in 11.79 seconds
+2024-11-05 22:35:54,113 - Game 718440 scraped successfully in 13.65 seconds
+2024-11-05 22:36:08,321 - Game 718431 scraped successfully in 13.20 seconds
+2024-11-05 22:36:21,515 - Game 718435 scraped successfully in 12.19 seconds
+2024-11-05 22:36:33,621 - Game 718430 scraped successfully in 11.10 seconds
+2024-11-05 22:36:47,237 - Game 718432 scraped successfully in 12.61 seconds
+2024-11-05 22:36:59,077 - Game 718436 scraped successfully in 10.83 seconds
+2024-11-05 22:37:12,020 - Game 718434 scraped successfully in 11.94 seconds
+2024-11-05 22:37:24,312 - Game 718427 scraped successfully in 11.29 seconds
+2024-11-05 22:37:40,387 - Game 718408 scraped successfully in 15.07 seconds
+2024-11-05 22:37:58,650 - Game 718420 scraped successfully in 17.26 seconds
+2024-11-05 22:38:12,079 - Game 718411 scraped successfully in 12.40 seconds
+2024-11-05 22:38:24,469 - Game 718419 scraped successfully in 11.38 seconds
+2024-11-05 22:38:37,907 - Game 718407 scraped successfully in 12.43 seconds
+2024-11-05 22:38:51,071 - Game 718418 scraped successfully in 12.14 seconds
+2024-11-05 22:39:04,792 - Game 718423 scraped successfully in 12.72 seconds
+2024-11-05 22:39:21,626 - Game 718421 scraped successfully in 15.83 seconds
+2024-11-05 22:40:31,630 - Game 718412 scraped successfully in 69.00 seconds
+2024-11-05 22:40:41,551 - Game 718416 scraped successfully in 8.91 seconds
+2024-11-05 22:40:50,117 - Game 718415 scraped successfully in 7.56 seconds
+2024-11-05 22:41:03,038 - Game 718413 scraped successfully in 11.91 seconds
+2024-11-05 22:42:19,743 - Game 718414 scraped successfully in 75.70 seconds
+2024-11-05 22:42:38,707 - Game 718424 scraped successfully in 17.96 seconds
+2024-11-05 22:42:57,165 - Game 718417 scraped successfully in 17.45 seconds
+2024-11-05 22:43:17,428 - Game 718402 scraped successfully in 19.26 seconds
+2024-11-05 22:43:36,298 - Game 718410 scraped successfully in 17.75 seconds
+2024-11-05 22:43:50,591 - Game 718406 scraped successfully in 13.29 seconds
+2024-11-05 22:44:05,011 - Game 718409 scraped successfully in 13.41 seconds
+2024-11-05 22:44:19,554 - Game 718398 scraped successfully in 13.54 seconds
+2024-11-05 22:44:32,581 - Game 718404 scraped successfully in 12.02 seconds
+2024-11-05 22:45:53,423 - Game 718403 scraped successfully in 79.84 seconds
+2024-11-05 22:46:12,991 - Game 718397 scraped successfully in 18.56 seconds
+2024-11-05 22:46:34,096 - Game 718405 scraped successfully in 20.10 seconds
+2024-11-05 22:46:46,880 - Game 718400 scraped successfully in 11.78 seconds
+2024-11-05 22:47:00,949 - Game 718396 scraped successfully in 13.06 seconds
+2024-11-05 22:47:15,544 - Game 718389 scraped successfully in 13.56 seconds
+2024-11-05 22:47:33,123 - Game 718380 scraped successfully in 16.57 seconds
+2024-11-05 22:47:51,676 - Game 718392 scraped successfully in 17.54 seconds
+2024-11-05 22:48:11,298 - Game 718386 scraped successfully in 18.61 seconds
+2024-11-05 22:48:30,627 - Game 718382 scraped successfully in 18.32 seconds
+2024-11-05 22:48:49,238 - Game 718391 scraped successfully in 17.60 seconds
+2024-11-05 22:49:09,462 - Game 718388 scraped successfully in 19.21 seconds
+2024-11-05 22:49:29,952 - Game 718395 scraped successfully in 19.49 seconds
+2024-11-05 22:49:51,802 - Game 718390 scraped successfully in 20.84 seconds
+2024-11-05 22:50:11,027 - Game 718387 scraped successfully in 18.22 seconds
+2024-11-05 22:50:25,549 - Game 718393 scraped successfully in 13.52 seconds
+2024-11-05 22:50:37,386 - Game 718372 scraped successfully in 10.83 seconds
+2024-11-05 22:50:46,583 - Game 718377 scraped successfully in 8.19 seconds
+2024-11-05 22:50:57,318 - Game 718379 scraped successfully in 9.73 seconds
+2024-11-05 22:51:06,801 - Game 718376 scraped successfully in 8.48 seconds
+2024-11-05 22:51:14,607 - Game 718369 scraped successfully in 6.80 seconds
+2024-11-05 22:51:26,670 - Game 718375 scraped successfully in 11.06 seconds
+2024-11-05 22:51:38,683 - Game 718383 scraped successfully in 11.01 seconds
+2024-11-05 22:51:57,281 - Game 718399 scraped successfully in 17.59 seconds
+2024-11-05 22:52:16,303 - Game 718384 scraped successfully in 17.80 seconds
+2024-11-05 22:52:32,142 - Game 718374 scraped successfully in 14.63 seconds
+2024-11-05 22:52:47,457 - Game 718385 scraped successfully in 13.94 seconds
+2024-11-05 22:53:01,536 - Game 718366 scraped successfully in 12.72 seconds
+2024-11-05 22:53:15,943 - Game 718381 scraped successfully in 13.40 seconds
+2024-11-05 22:53:31,656 - Game 718401 scraped successfully in 14.71 seconds
+2024-11-05 22:53:50,828 - Game 718378 scraped successfully in 18.16 seconds
+2024-11-05 22:54:11,754 - Game 718373 scraped successfully in 19.92 seconds
+2024-11-05 22:54:32,150 - Game 718354 scraped successfully in 19.39 seconds
+2024-11-05 22:54:53,855 - Game 718357 scraped successfully in 20.70 seconds
+2024-11-05 22:55:11,892 - Game 718363 scraped successfully in 17.03 seconds
+2024-11-05 22:55:22,713 - Game 718365 scraped successfully in 9.82 seconds
+2024-11-05 22:55:32,624 - Game 718359 scraped successfully in 8.90 seconds
+2024-11-05 22:55:42,419 - Game 718364 scraped successfully in 8.78 seconds
+2024-11-05 22:55:51,544 - Game 718367 scraped successfully in 8.12 seconds
+2024-11-05 22:56:01,476 - Game 718368 scraped successfully in 8.92 seconds
+2024-11-05 22:56:13,011 - Game 718356 scraped successfully in 10.53 seconds
+2024-11-05 22:56:29,858 - Game 718370 scraped successfully in 15.84 seconds
+2024-11-05 22:56:47,899 - Game 718358 scraped successfully in 17.04 seconds
+2024-11-05 22:58:07,590 - Game 718360 scraped successfully in 78.57 seconds
+2024-11-05 22:58:31,631 - Game 718362 scraped successfully in 23.02 seconds
+2024-11-05 22:58:49,933 - Game 718355 scraped successfully in 17.28 seconds
+2024-11-05 22:59:04,282 - Game 718350 scraped successfully in 13.33 seconds
+2024-11-05 22:59:20,858 - Game 718343 scraped successfully in 15.33 seconds
+2024-11-05 22:59:39,058 - Game 718352 scraped successfully in 17.19 seconds
+2024-11-05 22:59:57,023 - Game 718361 scraped successfully in 16.95 seconds
+2024-11-05 23:00:09,815 - Game 718349 scraped successfully in 11.79 seconds
+2024-11-05 23:00:20,485 - Game 718345 scraped successfully in 9.67 seconds
+2024-11-05 23:00:33,124 - Game 718353 scraped successfully in 11.17 seconds
+2024-11-05 23:01:40,719 - Game 718351 scraped successfully in 66.47 seconds
+2024-11-05 23:01:47,210 - Game 718337 scraped successfully in 5.49 seconds
+2024-11-05 23:01:54,978 - Game 718332 scraped successfully in 6.76 seconds
+2024-11-05 23:02:01,674 - Game 718338 scraped successfully in 5.69 seconds
+2024-11-05 23:02:10,939 - Game 718331 scraped successfully in 8.26 seconds
+2024-11-05 23:02:19,421 - Game 718346 scraped successfully in 7.48 seconds
+2024-11-05 23:02:26,926 - Game 718344 scraped successfully in 6.50 seconds
+2024-11-05 23:02:35,419 - Game 718335 scraped successfully in 7.49 seconds
+2024-11-05 23:02:43,838 - Game 718342 scraped successfully in 7.41 seconds
+2024-11-05 23:02:51,814 - Game 718347 scraped successfully in 6.97 seconds
+2024-11-05 23:02:59,432 - Game 718341 scraped successfully in 6.61 seconds
+2024-11-05 23:03:06,354 - Game 718334 scraped successfully in 5.92 seconds
+2024-11-05 23:03:15,617 - Game 718336 scraped successfully in 8.25 seconds
+2024-11-05 23:03:24,433 - Game 718340 scraped successfully in 7.81 seconds
+2024-11-05 23:03:32,559 - Game 718339 scraped successfully in 7.12 seconds
+2024-11-05 23:03:40,208 - Game 718326 scraped successfully in 6.65 seconds
+2024-11-05 23:03:48,425 - Game 718319 scraped successfully in 7.22 seconds
+2024-11-05 23:03:56,367 - Game 718320 scraped successfully in 6.94 seconds
+2024-11-05 23:04:04,842 - Game 718327 scraped successfully in 7.47 seconds
+2024-11-05 23:04:12,789 - Game 718321 scraped successfully in 6.95 seconds
+2024-11-05 23:04:20,104 - Game 718333 scraped successfully in 6.31 seconds
+2024-11-05 23:04:27,917 - Game 718330 scraped successfully in 6.81 seconds
+2024-11-05 23:04:37,038 - Game 718325 scraped successfully in 8.12 seconds
+2024-11-05 23:04:45,426 - Game 718328 scraped successfully in 7.38 seconds
+2024-11-05 23:04:53,108 - Game 718323 scraped successfully in 6.67 seconds
+2024-11-05 23:05:01,151 - Game 718315 scraped successfully in 7.04 seconds
+2024-11-05 23:05:10,971 - Game 718314 scraped successfully in 8.82 seconds
+2024-11-05 23:05:19,363 - Game 718329 scraped successfully in 7.39 seconds
+2024-11-05 23:05:26,772 - Game 718348 scraped successfully in 6.40 seconds
+2024-11-05 23:05:34,962 - Game 718322 scraped successfully in 7.18 seconds
+2024-11-05 23:05:43,499 - Game 718324 scraped successfully in 7.53 seconds
+2024-11-05 23:05:54,338 - Game 718304 scraped successfully in 9.83 seconds
+2024-11-05 23:06:10,229 - Game 718311 scraped successfully in 14.88 seconds
+2024-11-05 23:06:26,205 - Game 718308 scraped successfully in 14.97 seconds
+2024-11-05 23:06:39,548 - Game 718317 scraped successfully in 12.33 seconds
+2024-11-05 23:06:53,999 - Game 718309 scraped successfully in 13.41 seconds
+2024-11-05 23:08:04,466 - Game 718316 scraped successfully in 69.45 seconds
+2024-11-05 23:08:05,476 - Game 718313 already scraped, skipping.
+2024-11-05 23:08:05,477 - Game 718312 already scraped, skipping.
+2024-11-05 23:08:05,477 - Game 718318 already scraped, skipping.
+2024-11-05 23:08:05,478 - Game 718310 already scraped, skipping.
+2024-11-05 23:08:05,478 - Game 718294 already scraped, skipping.
+2024-11-05 23:08:12,817 - Game 718298 scraped successfully in 7.34 seconds
+2024-11-05 23:08:22,479 - Game 718292 scraped successfully in 8.66 seconds
+2024-11-05 23:08:32,672 - Game 718303 scraped successfully in 9.19 seconds
+2024-11-05 23:08:47,523 - Game 718296 scraped successfully in 13.85 seconds
+2024-11-05 23:09:00,629 - Game 718293 scraped successfully in 12.10 seconds
+2024-11-05 23:09:12,230 - Game 718306 scraped successfully in 10.59 seconds
+2024-11-05 23:09:23,227 - Game 718297 scraped successfully in 9.99 seconds
+2024-11-05 23:09:34,498 - Game 718302 scraped successfully in 10.27 seconds
+2024-11-05 23:09:47,840 - Game 718295 scraped successfully in 12.34 seconds
+2024-11-05 23:10:15,160 - Game 718301 scraped successfully in 26.31 seconds
+2024-11-05 23:10:29,659 - Game 718307 scraped successfully in 13.49 seconds
+2024-11-05 23:10:45,224 - Game 718300 scraped successfully in 14.46 seconds
+2024-11-05 23:11:00,447 - Game 718305 scraped successfully in 14.22 seconds
+2024-11-05 23:11:13,012 - Game 718299 scraped successfully in 11.56 seconds
+2024-11-05 23:11:22,638 - Game 718275 scraped successfully in 8.62 seconds
+2024-11-05 23:11:30,545 - Game 718283 scraped successfully in 6.90 seconds
+2024-11-05 23:11:39,842 - Game 718288 scraped successfully in 8.29 seconds
+2024-11-05 23:11:48,223 - Game 718289 scraped successfully in 7.38 seconds
+2024-11-05 23:11:58,338 - Game 718282 scraped successfully in 9.11 seconds
+2024-11-05 23:12:08,026 - Game 718287 scraped successfully in 8.68 seconds
+2024-11-05 23:12:20,353 - Game 718285 scraped successfully in 11.31 seconds
+2024-11-05 23:12:32,934 - Game 718274 scraped successfully in 11.58 seconds
+2024-11-05 23:12:45,511 - Game 718290 scraped successfully in 11.56 seconds
+2024-11-05 23:12:58,424 - Game 718279 scraped successfully in 11.90 seconds
+2024-11-05 23:13:11,916 - Game 718284 scraped successfully in 12.49 seconds
+2024-11-05 23:13:24,256 - Game 718286 scraped successfully in 11.31 seconds
+2024-11-05 23:13:39,790 - Game 718291 scraped successfully in 14.53 seconds
+2024-11-05 23:13:40,804 - Game 718281 already scraped, skipping.
+2024-11-05 23:13:40,805 - Game 718280 already scraped, skipping.
+2024-11-05 23:13:40,805 - Game 718264 already scraped, skipping.
+2024-11-05 23:13:40,805 - Game 718277 already scraped, skipping.
+2024-11-05 23:13:40,805 - Game 718272 already scraped, skipping.
+2024-11-05 23:13:40,805 - Game 718269 already scraped, skipping.
+2024-11-05 23:13:40,805 - Game 718263 already scraped, skipping.
+2024-11-05 23:13:40,805 - Game 718267 already scraped, skipping.
+2024-11-05 23:13:40,805 - Game 718273 already scraped, skipping.
+2024-11-05 23:13:54,651 - Game 718265 scraped successfully in 13.85 seconds
+2024-11-05 23:15:13,329 - Game 718276 scraped successfully in 77.67 seconds
+2024-11-05 23:15:14,334 - Game 718266 already scraped, skipping.
+2024-11-05 23:15:14,334 - Game 718270 already scraped, skipping.
+2024-11-05 23:15:28,780 - Game 718278 scraped successfully in 14.45 seconds
+2024-11-05 23:15:49,624 - Game 718271 scraped successfully in 19.82 seconds
+2024-11-05 23:16:10,352 - Game 718262 scraped successfully in 19.72 seconds
+2024-11-05 23:16:25,419 - Game 718268 scraped successfully in 14.06 seconds
+2024-11-05 23:16:40,032 - Game 718254 scraped successfully in 13.61 seconds
+2024-11-05 23:16:55,714 - Game 718257 scraped successfully in 14.67 seconds
+2024-11-05 23:18:07,141 - Game 718256 scraped successfully in 70.42 seconds
+2024-11-05 23:18:08,147 - Game 718249 already scraped, skipping.
+2024-11-05 23:18:08,147 - Game 718260 already scraped, skipping.
+2024-11-05 23:18:08,147 - Game 718261 already scraped, skipping.
+2024-11-05 23:18:08,147 - Game 718251 already scraped, skipping.
+2024-11-05 23:18:08,147 - Game 718259 already scraped, skipping.
+2024-11-05 23:18:19,989 - Game 718258 scraped successfully in 11.84 seconds
+2024-11-05 23:18:34,163 - Game 718253 scraped successfully in 13.17 seconds
+2024-11-05 23:18:50,755 - Game 718255 scraped successfully in 15.58 seconds
+2024-11-05 23:19:12,828 - Game 718237 scraped successfully in 21.07 seconds
+2024-11-05 23:19:32,040 - Game 718245 scraped successfully in 18.20 seconds
+2024-11-05 23:19:54,880 - Game 718241 scraped successfully in 21.84 seconds
+2024-11-05 23:20:16,170 - Game 718240 scraped successfully in 20.28 seconds
+2024-11-05 23:20:34,259 - Game 718236 scraped successfully in 17.08 seconds
+2024-11-05 23:20:53,370 - Game 718250 scraped successfully in 18.10 seconds
+2024-11-05 23:21:13,911 - Game 718248 scraped successfully in 19.53 seconds
+2024-11-05 23:21:33,564 - Game 718239 scraped successfully in 18.65 seconds
+2024-11-05 23:21:55,123 - Game 718246 scraped successfully in 20.56 seconds
+2024-11-05 23:23:15,002 - Game 718244 scraped successfully in 78.87 seconds
+2024-11-05 23:23:16,008 - Game 718252 already scraped, skipping.
+2024-11-05 23:23:16,008 - Game 718243 already scraped, skipping.
+2024-11-05 23:23:16,008 - Game 718238 already scraped, skipping.
+2024-11-05 23:23:16,008 - Game 718242 already scraped, skipping.
+2024-11-05 23:23:16,008 - Game 718247 already scraped, skipping.
+2024-11-05 23:23:30,934 - Game 718235 scraped successfully in 14.93 seconds
+2024-11-05 23:23:46,473 - Game 718220 scraped successfully in 14.50 seconds
+2024-11-05 23:24:02,711 - Game 718228 scraped successfully in 15.23 seconds
+2024-11-05 23:25:20,590 - Game 718221 scraped successfully in 76.87 seconds
+2024-11-05 23:25:21,597 - Game 718226 already scraped, skipping.
+2024-11-05 23:25:21,597 - Game 718230 already scraped, skipping.
+2024-11-05 23:25:21,598 - Game 718234 already scraped, skipping.
+2024-11-05 23:25:21,598 - Game 718229 already scraped, skipping.
+2024-11-05 23:25:35,545 - Game 718227 scraped successfully in 13.95 seconds
+2024-11-05 23:25:47,418 - Game 718233 scraped successfully in 10.67 seconds
+2024-11-05 23:25:59,165 - Game 718231 scraped successfully in 10.74 seconds
+2024-11-05 23:26:10,939 - Game 718225 scraped successfully in 10.77 seconds
+2024-11-05 23:26:23,132 - Game 718222 scraped successfully in 11.19 seconds
+2024-11-05 23:26:34,627 - Game 718224 scraped successfully in 10.49 seconds
+2024-11-05 23:26:48,581 - Game 718232 scraped successfully in 12.95 seconds
+2024-11-05 23:27:03,801 - Game 718217 scraped successfully in 14.22 seconds
+2024-11-05 23:27:21,775 - Game 718215 scraped successfully in 16.96 seconds
+2024-11-05 23:27:40,074 - Game 718223 scraped successfully in 17.29 seconds
+2024-11-05 23:28:00,124 - Game 718218 scraped successfully in 19.04 seconds
+2024-11-05 23:28:21,092 - Game 718216 scraped successfully in 19.95 seconds
+2024-11-05 23:28:40,572 - Game 718219 scraped successfully in 18.47 seconds
+2024-11-05 23:29:02,205 - Game 718200 scraped successfully in 20.63 seconds
+2024-11-05 23:29:16,010 - Game 718206 scraped successfully in 12.69 seconds
+2024-11-05 23:29:26,286 - Game 718204 scraped successfully in 9.27 seconds
+2024-11-05 23:29:36,084 - Game 718199 scraped successfully in 8.79 seconds
+2024-11-05 23:29:44,713 - Game 718201 scraped successfully in 7.62 seconds
+2024-11-05 23:29:53,472 - Game 718205 scraped successfully in 7.75 seconds
+2024-11-05 23:30:02,821 - Game 718212 scraped successfully in 8.34 seconds
+2024-11-05 23:30:13,465 - Game 718214 scraped successfully in 9.64 seconds
+2024-11-05 23:30:25,370 - Game 718213 scraped successfully in 10.90 seconds
+2024-11-05 23:30:38,215 - Game 718211 scraped successfully in 11.84 seconds
+2024-11-05 23:31:48,918 - Game 718202 scraped successfully in 69.69 seconds
+2024-11-05 23:31:49,931 - Game 718208 already scraped, skipping.
+2024-11-05 23:31:49,931 - Game 718209 already scraped, skipping.
+2024-11-05 23:31:49,932 - Game 718207 already scraped, skipping.
+2024-11-05 23:31:49,932 - Game 718210 already scraped, skipping.
+2024-11-05 23:31:49,932 - Game 718190 already scraped, skipping.
+2024-11-05 23:31:49,933 - Game 718192 already scraped, skipping.
+2024-11-05 23:31:49,933 - Game 718183 already scraped, skipping.
+2024-11-05 23:32:00,885 - Game 718184 scraped successfully in 10.95 seconds
+2024-11-05 23:32:11,694 - Game 718185 scraped successfully in 9.80 seconds
+2024-11-05 23:32:23,760 - Game 718191 scraped successfully in 11.05 seconds
+2024-11-05 23:32:35,900 - Game 718198 scraped successfully in 11.13 seconds
+2024-11-05 23:32:47,777 - Game 718203 scraped successfully in 10.87 seconds
+2024-11-05 23:32:59,613 - Game 718193 scraped successfully in 10.82 seconds
+2024-11-05 23:33:12,679 - Game 718196 scraped successfully in 12.05 seconds
+2024-11-05 23:33:25,184 - Game 718188 scraped successfully in 11.49 seconds
+2024-11-05 23:33:36,472 - Game 718194 scraped successfully in 10.27 seconds
+2024-11-05 23:33:49,868 - Game 718195 scraped successfully in 12.39 seconds
+2024-11-05 23:34:03,069 - Game 718189 scraped successfully in 12.19 seconds
+2024-11-05 23:34:16,403 - Game 718197 scraped successfully in 12.32 seconds
+2024-11-05 23:34:29,000 - Game 718172 scraped successfully in 11.58 seconds
+2024-11-05 23:34:42,061 - Game 718181 scraped successfully in 12.05 seconds
+2024-11-05 23:34:55,003 - Game 718177 scraped successfully in 11.93 seconds
+2024-11-05 23:35:08,719 - Game 718169 scraped successfully in 12.70 seconds
+2024-11-05 23:35:18,532 - Game 718168 scraped successfully in 8.80 seconds
+2024-11-05 23:35:27,190 - Game 718182 scraped successfully in 7.65 seconds
+2024-11-05 23:35:28,195 - Game 718178 already scraped, skipping.
+2024-11-05 23:35:28,195 - Game 718186 already scraped, skipping.
+2024-11-05 23:35:28,195 - Game 718179 already scraped, skipping.
+2024-11-05 23:35:28,196 - Game 718187 already scraped, skipping.
+2024-11-05 23:35:28,196 - Game 718174 already scraped, skipping.
+2024-11-05 23:35:28,196 - Game 718173 already scraped, skipping.
+2024-11-05 23:35:28,196 - Game 718175 already scraped, skipping.
+2024-11-05 23:35:35,838 - Game 718176 scraped successfully in 7.64 seconds
+2024-11-05 23:35:45,326 - Game 718180 scraped successfully in 8.49 seconds
+2024-11-05 23:35:52,414 - Game 718158 scraped successfully in 6.09 seconds
+2024-11-05 23:36:01,439 - Game 718160 scraped successfully in 8.02 seconds
+2024-11-05 23:36:09,630 - Game 718164 scraped successfully in 7.16 seconds
+2024-11-05 23:36:20,329 - Game 718166 scraped successfully in 9.69 seconds
+2024-11-05 23:36:35,304 - Game 718159 scraped successfully in 13.92 seconds
+2024-11-05 23:36:44,975 - Game 718170 scraped successfully in 8.62 seconds
+2024-11-05 23:37:00,586 - Game 718167 scraped successfully in 14.61 seconds
+2024-11-05 23:37:12,933 - Game 718171 scraped successfully in 11.34 seconds
+2024-11-05 23:37:24,894 - Game 718162 scraped successfully in 10.96 seconds
+2024-11-05 23:37:37,012 - Game 718165 scraped successfully in 11.11 seconds
+2024-11-05 23:37:49,603 - Game 718163 scraped successfully in 11.58 seconds
+2024-11-05 23:38:01,525 - Game 718161 scraped successfully in 10.91 seconds
+2024-11-05 23:38:13,693 - Game 718152 scraped successfully in 11.15 seconds
+2024-11-05 23:38:28,952 - Game 718146 scraped successfully in 14.24 seconds
+2024-11-05 23:38:41,477 - Game 718157 scraped successfully in 11.51 seconds
+2024-11-05 23:38:54,339 - Game 718151 scraped successfully in 11.84 seconds
+2024-11-05 23:39:07,630 - Game 718141 scraped successfully in 12.28 seconds
+2024-11-05 23:39:19,217 - Game 718156 scraped successfully in 10.58 seconds
+2024-11-05 23:39:31,267 - Game 718153 scraped successfully in 11.04 seconds
+2024-11-05 23:39:40,564 - Game 718150 scraped successfully in 8.29 seconds
+2024-11-05 23:39:49,533 - Game 718154 scraped successfully in 7.96 seconds
+2024-11-05 23:39:59,341 - Game 718144 scraped successfully in 8.80 seconds
+2024-11-05 23:40:08,686 - Game 718148 scraped successfully in 8.33 seconds
+2024-11-05 23:40:19,003 - Game 718149 scraped successfully in 9.31 seconds
+2024-11-05 23:40:28,901 - Game 718145 scraped successfully in 8.89 seconds
+2024-11-05 23:40:40,076 - Game 718155 scraped successfully in 10.17 seconds
+2024-11-05 23:40:51,574 - Game 718147 scraped successfully in 10.49 seconds
+2024-11-05 23:41:02,711 - Game 718127 scraped successfully in 10.13 seconds
+2024-11-05 23:41:13,321 - Game 718139 scraped successfully in 9.60 seconds
+2024-11-05 23:41:24,467 - Game 718134 scraped successfully in 10.13 seconds
+2024-11-05 23:41:34,447 - Game 718131 scraped successfully in 8.97 seconds
+2024-11-05 23:41:45,002 - Game 718136 scraped successfully in 9.54 seconds
+2024-11-05 23:41:55,930 - Game 718143 scraped successfully in 9.92 seconds
+2024-11-05 23:42:07,320 - Game 718132 scraped successfully in 10.37 seconds
+2024-11-05 23:42:21,647 - Game 718135 scraped successfully in 13.32 seconds
+2024-11-05 23:42:35,003 - Game 718137 scraped successfully in 12.35 seconds
+2024-11-05 23:42:49,324 - Game 718140 scraped successfully in 13.31 seconds
+2024-11-05 23:42:59,683 - Game 718126 scraped successfully in 9.35 seconds
+2024-11-05 23:43:10,236 - Game 718133 scraped successfully in 9.55 seconds
+2024-11-05 23:43:20,495 - Game 718138 scraped successfully in 9.25 seconds
+2024-11-05 23:43:30,522 - Game 718142 scraped successfully in 9.01 seconds
+2024-11-05 23:43:39,704 - Game 718129 scraped successfully in 8.17 seconds
+2024-11-05 23:43:50,054 - Game 718121 scraped successfully in 9.34 seconds
+2024-11-05 23:44:00,529 - Game 718124 scraped successfully in 9.46 seconds
+2024-11-05 23:44:10,597 - Game 718130 scraped successfully in 9.06 seconds
+2024-11-05 23:44:20,137 - Game 718122 scraped successfully in 8.54 seconds
+2024-11-05 23:44:31,480 - Game 718128 scraped successfully in 10.33 seconds
+2024-11-05 23:44:39,861 - Game 718125 scraped successfully in 7.37 seconds
+2024-11-05 23:44:49,912 - Game 718106 scraped successfully in 9.04 seconds
+2024-11-05 23:44:59,820 - Game 718112 scraped successfully in 8.89 seconds
+2024-11-05 23:45:09,515 - Game 718115 scraped successfully in 8.69 seconds
+2024-11-05 23:45:19,357 - Game 718110 scraped successfully in 8.83 seconds
+2024-11-05 23:45:29,252 - Game 718113 scraped successfully in 8.89 seconds
+2024-11-05 23:45:39,553 - Game 718105 scraped successfully in 9.30 seconds
+2024-11-05 23:45:50,900 - Game 718119 scraped successfully in 10.33 seconds
+2024-11-05 23:46:01,743 - Game 718123 scraped successfully in 9.83 seconds
+2024-11-05 23:46:10,953 - Game 718107 scraped successfully in 8.20 seconds
+2024-11-05 23:46:22,070 - Game 718116 scraped successfully in 10.10 seconds
+2024-11-05 23:46:32,729 - Game 718118 scraped successfully in 9.65 seconds
+2024-11-05 23:47:42,980 - Game 718114 scraped successfully in 69.24 seconds
+2024-11-05 23:47:52,374 - Game 718117 scraped successfully in 8.38 seconds
+2024-11-05 23:48:02,247 - Game 718120 scraped successfully in 8.84 seconds
+2024-11-05 23:48:10,522 - Game 718111 scraped successfully in 7.27 seconds
+2024-11-05 23:48:19,892 - Game 718096 scraped successfully in 8.36 seconds
+2024-11-05 23:48:28,910 - Game 718098 scraped successfully in 8.01 seconds
+2024-11-05 23:48:38,454 - Game 718102 scraped successfully in 8.52 seconds
+2024-11-05 23:48:48,209 - Game 718094 scraped successfully in 8.74 seconds
+2024-11-05 23:48:57,587 - Game 718109 scraped successfully in 8.37 seconds
+2024-11-05 23:49:07,228 - Game 718103 scraped successfully in 8.62 seconds
+2024-11-05 23:49:16,987 - Game 718108 scraped successfully in 8.75 seconds
+2024-11-05 23:49:26,633 - Game 718092 scraped successfully in 8.63 seconds
+2024-11-05 23:49:37,172 - Game 718097 scraped successfully in 9.53 seconds
+2024-11-05 23:49:47,416 - Game 718101 scraped successfully in 9.24 seconds
+2024-11-05 23:49:57,849 - Game 718100 scraped successfully in 9.43 seconds
+2024-11-05 23:50:07,868 - Game 718093 scraped successfully in 9.01 seconds
+2024-11-05 23:50:19,059 - Game 718095 scraped successfully in 10.18 seconds
+2024-11-05 23:50:28,805 - Game 718104 scraped successfully in 8.74 seconds
+2024-11-05 23:50:39,359 - Game 718080 scraped successfully in 9.54 seconds
+2024-11-05 23:50:48,803 - Game 718086 scraped successfully in 8.43 seconds
+2024-11-05 23:51:00,774 - Game 718087 scraped successfully in 10.96 seconds
+2024-11-05 23:51:10,867 - Game 718090 scraped successfully in 9.08 seconds
+2024-11-05 23:51:21,651 - Game 718083 scraped successfully in 9.77 seconds
+2024-11-05 23:51:31,489 - Game 718078 scraped successfully in 8.83 seconds
+2024-11-05 23:51:40,766 - Game 718082 scraped successfully in 8.27 seconds
+2024-11-05 23:51:50,490 - Game 718099 scraped successfully in 8.72 seconds
+2024-11-05 23:52:00,384 - Game 718089 scraped successfully in 8.88 seconds
+2024-11-05 23:52:10,125 - Game 718079 scraped successfully in 8.73 seconds
+2024-11-05 23:53:19,240 - Game 718088 scraped successfully in 68.10 seconds
+2024-11-05 23:53:20,254 - Game 718091 already scraped, skipping.
+2024-11-05 23:53:20,254 - Game 718076 already scraped, skipping.
+2024-11-05 23:53:20,255 - Game 718081 already scraped, skipping.
+2024-11-05 23:53:20,255 - Game 718085 already scraped, skipping.
+2024-11-05 23:53:20,256 - Game 718084 already scraped, skipping.
+2024-11-05 23:53:20,256 - Game 718070 already scraped, skipping.
+2024-11-05 23:53:20,257 - Game 718074 already scraped, skipping.
+2024-11-05 23:53:20,257 - Game 718068 already scraped, skipping.
+2024-11-05 23:53:20,257 - Game 718072 already scraped, skipping.
+2024-11-05 23:53:20,257 - Game 718062 already scraped, skipping.
+2024-11-05 23:53:20,258 - Game 718073 already scraped, skipping.
+2024-11-05 23:53:20,258 - Game 718075 already scraped, skipping.
+2024-11-05 23:53:20,258 - Game 718077 already scraped, skipping.
+2024-11-05 23:53:20,258 - Game 718071 already scraped, skipping.
+2024-11-05 23:53:20,259 - Game 718069 already scraped, skipping.
+2024-11-05 23:53:20,259 - Game 718066 already scraped, skipping.
+2024-11-05 23:53:20,259 - Game 718067 already scraped, skipping.
+2024-11-05 23:53:20,259 - Game 718053 already scraped, skipping.
+2024-11-05 23:53:20,259 - Game 718057 already scraped, skipping.
+2024-11-05 23:53:20,260 - Game 718056 already scraped, skipping.
+2024-11-05 23:53:20,260 - Game 718055 already scraped, skipping.
+2024-11-05 23:53:20,260 - Game 718063 already scraped, skipping.
+2024-11-05 23:53:20,260 - Game 718050 already scraped, skipping.
+2024-11-05 23:53:20,260 - Game 718064 already scraped, skipping.
+2024-11-05 23:53:20,261 - Game 718060 already scraped, skipping.
+2024-11-05 23:53:20,261 - Game 718065 already scraped, skipping.
+2024-11-05 23:53:20,261 - Game 718061 already scraped, skipping.
+2024-11-05 23:53:20,261 - Game 718059 already scraped, skipping.
+2024-11-05 23:53:20,261 - Game 718051 already scraped, skipping.
+2024-11-05 23:53:20,262 - Game 718049 already scraped, skipping.
+2024-11-05 23:53:20,262 - Game 718054 already scraped, skipping.
+2024-11-05 23:53:20,262 - Game 718058 already scraped, skipping.
+2024-11-05 23:53:20,262 - Game 718034 already scraped, skipping.
+2024-11-05 23:53:20,262 - Game 718042 already scraped, skipping.
+2024-11-05 23:53:20,262 - Game 718046 already scraped, skipping.
+2024-11-05 23:53:20,263 - Game 718038 already scraped, skipping.
+2024-11-05 23:53:20,263 - Game 718048 already scraped, skipping.
+2024-11-05 23:53:20,263 - Game 718037 already scraped, skipping.
+2024-11-05 23:53:20,263 - Game 718052 already scraped, skipping.
+2024-11-05 23:53:20,263 - Game 718043 already scraped, skipping.
+2024-11-05 23:53:20,264 - Game 718045 already scraped, skipping.
+2024-11-05 23:53:20,264 - Game 718044 already scraped, skipping.
+2024-11-05 23:53:20,264 - Game 718041 already scraped, skipping.
+2024-11-05 23:53:20,264 - Game 718036 already scraped, skipping.
+2024-11-05 23:53:20,264 - Game 718039 already scraped, skipping.
+2024-11-05 23:53:20,264 - Game 718047 already scraped, skipping.
+2024-11-05 23:53:20,265 - Game 718040 already scraped, skipping.
+2024-11-05 23:53:20,265 - Game 718026 already scraped, skipping.
+2024-11-05 23:53:20,265 - Game 718028 already scraped, skipping.
+2024-11-05 23:53:20,265 - Game 718024 already scraped, skipping.
+2024-11-05 23:53:20,265 - Game 718025 already scraped, skipping.
+2024-11-05 23:53:20,265 - Game 718035 already scraped, skipping.
+2024-11-05 23:53:20,266 - Game 718032 already scraped, skipping.
+2024-11-05 23:53:20,266 - Game 718030 already scraped, skipping.
+2024-11-05 23:53:20,266 - Game 718033 already scraped, skipping.
+2024-11-05 23:53:20,266 - Game 718031 already scraped, skipping.
+2024-11-05 23:53:20,266 - Game 718029 already scraped, skipping.
+2024-11-05 23:53:20,266 - Game 718015 already scraped, skipping.
+2024-11-05 23:53:20,267 - Game 718009 already scraped, skipping.
+2024-11-05 23:53:20,267 - Game 718019 already scraped, skipping.
+2024-11-05 23:53:20,267 - Game 718017 already scraped, skipping.
+2024-11-05 23:53:20,267 - Game 718027 already scraped, skipping.
+2024-11-05 23:53:20,267 - Game 718010 already scraped, skipping.
+2024-11-05 23:53:20,267 - Game 718022 already scraped, skipping.
+2024-11-05 23:53:20,267 - Game 718012 already scraped, skipping.
+2024-11-05 23:53:20,268 - Game 718020 already scraped, skipping.
+2024-11-05 23:53:20,268 - Game 718018 already scraped, skipping.
+2024-11-05 23:53:20,268 - Game 718016 already scraped, skipping.
+2024-11-05 23:53:20,268 - Game 718014 already scraped, skipping.
+2024-11-05 23:53:20,268 - Game 718021 already scraped, skipping.
+2024-11-05 23:53:20,268 - Game 718013 already scraped, skipping.
+2024-11-05 23:53:20,268 - Game 718023 already scraped, skipping.
+2024-11-05 23:53:20,269 - Game 717998 already scraped, skipping.
+2024-11-05 23:53:20,269 - Game 718003 already scraped, skipping.
+2024-11-05 23:53:20,269 - Game 717997 already scraped, skipping.
+2024-11-05 23:53:20,269 - Game 717999 already scraped, skipping.
+2024-11-05 23:53:20,269 - Game 718007 already scraped, skipping.
+2024-11-05 23:53:20,269 - Game 717991 already scraped, skipping.
+2024-11-05 23:53:20,269 - Game 717996 already scraped, skipping.
+2024-11-05 23:53:20,270 - Game 718004 already scraped, skipping.
+2024-11-05 23:53:20,270 - Game 718001 already scraped, skipping.
+2024-11-05 23:53:20,270 - Game 718002 already scraped, skipping.
+2024-11-05 23:53:20,270 - Game 718011 already scraped, skipping.
+2024-11-05 23:53:20,270 - Game 718000 already scraped, skipping.
+2024-11-05 23:53:20,271 - Game 718005 already scraped, skipping.
+2024-11-05 23:53:20,271 - Game 718008 already scraped, skipping.
+2024-11-05 23:53:20,271 - Game 718006 already scraped, skipping.
+2024-11-05 23:53:20,271 - Game 717984 already scraped, skipping.
+2024-11-05 23:53:20,271 - Game 717980 already scraped, skipping.
+2024-11-05 23:53:20,271 - Game 717992 already scraped, skipping.
+2024-11-05 23:53:20,271 - Game 717986 already scraped, skipping.
+2024-11-05 23:53:20,272 - Game 717987 already scraped, skipping.
+2024-11-05 23:53:20,272 - Game 717981 already scraped, skipping.
+2024-11-05 23:53:20,272 - Game 717993 already scraped, skipping.
+2024-11-05 23:53:20,272 - Game 717983 already scraped, skipping.
+2024-11-05 23:53:20,272 - Game 717990 already scraped, skipping.
+2024-11-05 23:53:20,272 - Game 717994 already scraped, skipping.
+2024-11-05 23:53:20,272 - Game 717982 already scraped, skipping.
+2024-11-05 23:53:20,272 - Game 717985 already scraped, skipping.
+2024-11-05 23:53:20,272 - Game 717989 already scraped, skipping.
+2024-11-05 23:53:20,273 - Game 717988 already scraped, skipping.
+2024-11-05 23:53:20,273 - Game 717995 already scraped, skipping.
+2024-11-05 23:53:20,273 - Game 717968 already scraped, skipping.
+2024-11-05 23:53:20,273 - Game 717970 already scraped, skipping.
+2024-11-05 23:53:20,273 - Game 717975 already scraped, skipping.
+2024-11-05 23:53:20,273 - Game 717976 already scraped, skipping.
+2024-11-05 23:53:20,273 - Game 717977 already scraped, skipping.
+2024-11-05 23:53:20,273 - Game 717973 already scraped, skipping.
+2024-11-05 23:53:20,274 - Game 717978 already scraped, skipping.
+2024-11-05 23:53:20,274 - Game 717969 already scraped, skipping.
+2024-11-05 23:53:20,274 - Game 717974 already scraped, skipping.
+2024-11-05 23:53:20,274 - Game 717979 already scraped, skipping.
+2024-11-05 23:53:20,274 - Game 717971 already scraped, skipping.
+2024-11-05 23:53:20,274 - Game 717956 already scraped, skipping.
+2024-11-05 23:53:20,274 - Game 717958 already scraped, skipping.
+2024-11-05 23:53:20,274 - Game 717965 already scraped, skipping.
+2024-11-05 23:53:20,274 - Game 717960 already scraped, skipping.
+2024-11-05 23:53:20,274 - Game 717961 already scraped, skipping.
+2024-11-05 23:53:20,275 - Game 717955 already scraped, skipping.
+2024-11-05 23:53:20,275 - Game 717957 already scraped, skipping.
+2024-11-05 23:53:20,275 - Game 717972 already scraped, skipping.
+2024-11-05 23:53:20,275 - Game 717952 already scraped, skipping.
+2024-11-05 23:53:20,275 - Game 717963 already scraped, skipping.
+2024-11-05 23:53:20,275 - Game 717962 already scraped, skipping.
+2024-11-05 23:53:20,275 - Game 717967 already scraped, skipping.
+2024-11-05 23:53:20,275 - Game 717966 already scraped, skipping.
+2024-11-05 23:53:20,275 - Game 717964 already scraped, skipping.
+2024-11-05 23:53:20,275 - Game 717959 already scraped, skipping.
+2024-11-05 23:53:20,276 - Game 717938 already scraped, skipping.
+2024-11-05 23:53:20,276 - Game 717949 already scraped, skipping.
+2024-11-05 23:53:20,276 - Game 717947 already scraped, skipping.
+2024-11-05 23:53:20,276 - Game 717950 already scraped, skipping.
+2024-11-05 23:53:20,276 - Game 717940 already scraped, skipping.
+2024-11-05 23:53:20,276 - Game 717954 already scraped, skipping.
+2024-11-05 23:53:20,276 - Game 717953 already scraped, skipping.
+2024-11-05 23:53:20,276 - Game 717939 already scraped, skipping.
+2024-11-05 23:53:20,276 - Game 717945 already scraped, skipping.
+2024-11-05 23:53:20,276 - Game 717944 already scraped, skipping.
+2024-11-05 23:53:20,276 - Game 717946 already scraped, skipping.
+2024-11-05 23:53:20,277 - Game 717948 already scraped, skipping.
+2024-11-05 23:53:20,277 - Game 717951 already scraped, skipping.
+2024-11-05 23:53:20,277 - Game 717943 already scraped, skipping.
+2024-11-05 23:53:20,277 - Game 717936 already scraped, skipping.
+2024-11-05 23:53:20,277 - Game 717942 already scraped, skipping.
+2024-11-05 23:53:20,277 - Game 717933 already scraped, skipping.
+2024-11-05 23:53:20,277 - Game 717941 already scraped, skipping.
+2024-11-05 23:53:20,277 - Game 717934 already scraped, skipping.
+2024-11-05 23:53:20,277 - Game 717932 already scraped, skipping.
+2024-11-05 23:53:20,278 - Game 717937 already scraped, skipping.
+2024-11-05 23:53:20,278 - Game 717926 already scraped, skipping.
+2024-11-05 23:53:20,279 - Game 717919 already scraped, skipping.
+2024-11-05 23:53:20,279 - Game 717917 already scraped, skipping.
+2024-11-05 23:53:20,279 - Game 717920 already scraped, skipping.
+2024-11-05 23:53:20,279 - Game 717927 already scraped, skipping.
+2024-11-05 23:53:20,279 - Game 717929 already scraped, skipping.
+2024-11-05 23:53:20,279 - Game 717935 already scraped, skipping.
+2024-11-05 23:53:20,279 - Game 717921 already scraped, skipping.
+2024-11-05 23:53:20,279 - Game 717930 already scraped, skipping.
+2024-11-05 23:53:20,279 - Game 717922 already scraped, skipping.
+2024-11-05 23:53:20,279 - Game 717931 already scraped, skipping.
+2024-11-05 23:53:20,279 - Game 717923 already scraped, skipping.
+2024-11-05 23:53:20,279 - Game 717924 already scraped, skipping.
+2024-11-05 23:53:20,280 - Game 717925 already scraped, skipping.
+2024-11-05 23:53:20,280 - Game 717908 already scraped, skipping.
+2024-11-05 23:53:20,280 - Game 717901 already scraped, skipping.
+2024-11-05 23:53:20,280 - Game 717905 already scraped, skipping.
+2024-11-05 23:53:20,280 - Game 717916 already scraped, skipping.
+2024-11-05 23:53:20,280 - Game 717911 already scraped, skipping.
+2024-11-05 23:53:20,280 - Game 717910 already scraped, skipping.
+2024-11-05 23:53:20,280 - Game 717914 already scraped, skipping.
+2024-11-05 23:53:20,280 - Game 717903 already scraped, skipping.
+2024-11-05 23:53:20,280 - Game 717907 already scraped, skipping.
+2024-11-05 23:53:20,280 - Game 717912 already scraped, skipping.
+2024-11-05 23:53:20,280 - Game 717885 already scraped, skipping.
+2024-11-05 23:53:20,280 - Game 717918 already scraped, skipping.
+2024-11-05 23:53:20,281 - Game 717906 already scraped, skipping.
+2024-11-05 23:53:20,281 - Game 717909 already scraped, skipping.
+2024-11-05 23:53:20,281 - Game 717913 already scraped, skipping.
+2024-11-05 23:53:20,281 - Game 717915 already scraped, skipping.
+2024-11-05 23:53:20,281 - Game 717899 already scraped, skipping.
+2024-11-05 23:53:20,281 - Game 717892 already scraped, skipping.
+2024-11-05 23:53:20,281 - Game 717888 already scraped, skipping.
+2024-11-05 23:53:20,281 - Game 717890 already scraped, skipping.
+2024-11-05 23:53:20,281 - Game 717896 already scraped, skipping.
+2024-11-05 23:53:20,281 - Game 717900 already scraped, skipping.
+2024-11-05 23:53:20,281 - Game 717902 already scraped, skipping.
+2024-11-05 23:53:20,281 - Game 717889 already scraped, skipping.
+2024-11-05 23:53:20,282 - Game 717898 already scraped, skipping.
+2024-11-05 23:53:20,282 - Game 717894 already scraped, skipping.
+2024-11-05 23:53:20,282 - Game 717904 already scraped, skipping.
+2024-11-05 23:53:20,282 - Game 717897 already scraped, skipping.
+2024-11-05 23:53:20,282 - Game 717893 already scraped, skipping.
+2024-11-05 23:53:20,282 - Game 717895 already scraped, skipping.
+2024-11-05 23:53:20,282 - Game 717891 already scraped, skipping.
+2024-11-05 23:53:20,282 - Game 717878 already scraped, skipping.
+2024-11-05 23:53:20,282 - Game 717887 already scraped, skipping.
+2024-11-05 23:53:20,282 - Game 717880 already scraped, skipping.
+2024-11-05 23:53:20,282 - Game 717886 already scraped, skipping.
+2024-11-05 23:53:20,282 - Game 717884 already scraped, skipping.
+2024-11-05 23:53:20,282 - Game 717879 already scraped, skipping.
+2024-11-05 23:53:20,283 - Game 717928 already scraped, skipping.
+2024-11-05 23:53:20,283 - Game 717883 already scraped, skipping.
+2024-11-05 23:53:20,283 - Game 717861 already scraped, skipping.
+2024-11-05 23:53:20,283 - Game 717871 already scraped, skipping.
+2024-11-05 23:53:20,283 - Game 717872 already scraped, skipping.
+2024-11-05 23:53:20,283 - Game 717867 already scraped, skipping.
+2024-11-05 23:53:20,283 - Game 717873 already scraped, skipping.
+2024-11-05 23:53:20,283 - Game 717876 already scraped, skipping.
+2024-11-05 23:53:20,283 - Game 717881 already scraped, skipping.
+2024-11-05 23:53:20,283 - Game 717864 already scraped, skipping.
+2024-11-05 23:53:20,283 - Game 717875 already scraped, skipping.
+2024-11-05 23:53:20,283 - Game 717874 already scraped, skipping.
+2024-11-05 23:53:20,283 - Game 717868 already scraped, skipping.
+2024-11-05 23:53:20,284 - Game 717882 already scraped, skipping.
+2024-11-05 23:53:20,284 - Game 717870 already scraped, skipping.
+2024-11-05 23:53:20,284 - Game 717869 already scraped, skipping.
+2024-11-05 23:53:20,284 - Game 717877 already scraped, skipping.
+2024-11-05 23:53:20,284 - Game 717855 already scraped, skipping.
+2024-11-05 23:53:20,284 - Game 717856 already scraped, skipping.
+2024-11-05 23:53:20,284 - Game 717850 already scraped, skipping.
+2024-11-05 23:53:20,284 - Game 717851 already scraped, skipping.
+2024-11-05 23:53:20,284 - Game 717858 already scraped, skipping.
+2024-11-05 23:53:20,284 - Game 717860 already scraped, skipping.
+2024-11-05 23:53:20,284 - Game 717866 already scraped, skipping.
+2024-11-05 23:53:20,284 - Game 717863 already scraped, skipping.
+2024-11-05 23:53:20,284 - Game 717865 already scraped, skipping.
+2024-11-05 23:53:20,285 - Game 717854 already scraped, skipping.
+2024-11-05 23:53:20,285 - Game 717859 already scraped, skipping.
+2024-11-05 23:53:20,285 - Game 717853 already scraped, skipping.
+2024-11-05 23:53:20,285 - Game 717852 already scraped, skipping.
+2024-11-05 23:53:20,285 - Game 717838 already scraped, skipping.
+2024-11-05 23:53:20,285 - Game 717843 already scraped, skipping.
+2024-11-05 23:53:20,285 - Game 717840 already scraped, skipping.
+2024-11-05 23:53:20,285 - Game 717849 already scraped, skipping.
+2024-11-05 23:53:20,285 - Game 717842 already scraped, skipping.
+2024-11-05 23:53:20,285 - Game 717862 already scraped, skipping.
+2024-11-05 23:53:20,285 - Game 717845 already scraped, skipping.
+2024-11-05 23:53:20,285 - Game 717844 already scraped, skipping.
+2024-11-05 23:53:20,285 - Game 717846 already scraped, skipping.
+2024-11-05 23:53:20,285 - Game 717848 already scraped, skipping.
+2024-11-05 23:53:20,286 - Game 717857 already scraped, skipping.
+2024-11-05 23:53:20,286 - Game 717824 already scraped, skipping.
+2024-11-05 23:53:20,286 - Game 717835 already scraped, skipping.
+2024-11-05 23:53:20,286 - Game 717829 already scraped, skipping.
+2024-11-05 23:53:20,286 - Game 717831 already scraped, skipping.
+2024-11-05 23:53:20,286 - Game 717832 already scraped, skipping.
+2024-11-05 23:53:20,286 - Game 717823 already scraped, skipping.
+2024-11-05 23:53:20,286 - Game 717833 already scraped, skipping.
+2024-11-05 23:53:20,286 - Game 717839 already scraped, skipping.
+2024-11-05 23:53:20,286 - Game 717837 already scraped, skipping.
+2024-11-05 23:53:20,286 - Game 717836 already scraped, skipping.
+2024-11-05 23:53:20,286 - Game 717827 already scraped, skipping.
+2024-11-05 23:53:20,286 - Game 717830 already scraped, skipping.
+2024-11-05 23:53:20,286 - Game 717834 already scraped, skipping.
+2024-11-05 23:53:20,286 - Game 717828 already scraped, skipping.
+2024-11-05 23:53:20,287 - Game 717841 already scraped, skipping.
+2024-11-05 23:53:20,287 - Game 717809 already scraped, skipping.
+2024-11-05 23:53:20,287 - Game 717822 already scraped, skipping.
+2024-11-05 23:53:20,287 - Game 717816 already scraped, skipping.
+2024-11-05 23:53:20,287 - Game 717814 already scraped, skipping.
+2024-11-05 23:53:20,287 - Game 717817 already scraped, skipping.
+2024-11-05 23:53:20,287 - Game 717826 already scraped, skipping.
+2024-11-05 23:53:20,287 - Game 717815 already scraped, skipping.
+2024-11-05 23:53:20,287 - Game 717818 already scraped, skipping.
+2024-11-05 23:53:20,287 - Game 717811 already scraped, skipping.
+2024-11-05 23:53:20,287 - Game 717812 already scraped, skipping.
+2024-11-05 23:53:20,287 - Game 717813 already scraped, skipping.
+2024-11-05 23:53:20,287 - Game 717819 already scraped, skipping.
+2024-11-05 23:53:20,287 - Game 717821 already scraped, skipping.
+2024-11-05 23:53:20,287 - Game 717820 already scraped, skipping.
+2024-11-05 23:53:20,288 - Game 717825 already scraped, skipping.
+2024-11-05 23:53:20,288 - Game 717799 already scraped, skipping.
+2024-11-05 23:53:20,288 - Game 717805 already scraped, skipping.
+2024-11-05 23:53:20,288 - Game 717807 already scraped, skipping.
+2024-11-05 23:53:20,288 - Game 717800 already scraped, skipping.
+2024-11-05 23:53:20,288 - Game 717797 already scraped, skipping.
+2024-11-05 23:53:20,288 - Game 717796 already scraped, skipping.
+2024-11-05 23:53:20,288 - Game 717802 already scraped, skipping.
+2024-11-05 23:53:20,288 - Game 717808 already scraped, skipping.
+2024-11-05 23:53:20,288 - Game 717806 already scraped, skipping.
+2024-11-05 23:53:20,288 - Game 717803 already scraped, skipping.
+2024-11-05 23:53:20,288 - Game 717801 already scraped, skipping.
+2024-11-05 23:53:20,288 - Game 717798 already scraped, skipping.
+2024-11-05 23:53:20,288 - Game 717804 already scraped, skipping.
+2024-11-05 23:53:20,288 - Game 717795 already scraped, skipping.
+2024-11-05 23:53:20,289 - Game 717810 already scraped, skipping.
+2024-11-05 23:53:20,289 - Game 717789 already scraped, skipping.
+2024-11-05 23:53:20,289 - Game 717791 already scraped, skipping.
+2024-11-05 23:53:20,289 - Game 717785 already scraped, skipping.
+2024-11-05 23:53:20,289 - Game 717786 already scraped, skipping.
+2024-11-05 23:53:20,289 - Game 717792 already scraped, skipping.
+2024-11-05 23:53:20,289 - Game 717794 already scraped, skipping.
+2024-11-05 23:53:20,289 - Game 717793 already scraped, skipping.
+2024-11-05 23:53:20,289 - Game 717790 already scraped, skipping.
+2024-11-05 23:53:20,289 - Game 717778 already scraped, skipping.
+2024-11-05 23:53:20,289 - Game 717774 already scraped, skipping.
+2024-11-05 23:53:20,289 - Game 717781 already scraped, skipping.
+2024-11-05 23:53:20,289 - Game 717782 already scraped, skipping.
+2024-11-05 23:53:20,289 - Game 717775 already scraped, skipping.
+2024-11-05 23:53:20,289 - Game 717776 already scraped, skipping.
+2024-11-05 23:53:20,290 - Game 717773 already scraped, skipping.
+2024-11-05 23:53:20,290 - Game 717779 already scraped, skipping.
+2024-11-05 23:53:20,290 - Game 717787 already scraped, skipping.
+2024-11-05 23:53:20,290 - Game 717772 already scraped, skipping.
+2024-11-05 23:53:20,290 - Game 717780 already scraped, skipping.
+2024-11-05 23:53:20,290 - Game 717788 already scraped, skipping.
+2024-11-05 23:53:20,290 - Game 717777 already scraped, skipping.
+2024-11-05 23:53:20,290 - Game 717783 already scraped, skipping.
+2024-11-05 23:53:20,290 - Game 717762 already scraped, skipping.
+2024-11-05 23:53:20,290 - Game 717761 already scraped, skipping.
+2024-11-05 23:53:20,290 - Game 717767 already scraped, skipping.
+2024-11-05 23:53:20,290 - Game 717763 already scraped, skipping.
+2024-11-05 23:53:20,290 - Game 717757 already scraped, skipping.
+2024-11-05 23:53:20,290 - Game 717760 already scraped, skipping.
+2024-11-05 23:53:20,291 - Game 717759 already scraped, skipping.
+2024-11-05 23:53:20,291 - Game 717766 already scraped, skipping.
+2024-11-05 23:53:20,291 - Game 717769 already scraped, skipping.
+2024-11-05 23:53:20,291 - Game 717758 already scraped, skipping.
+2024-11-05 23:53:20,291 - Game 717765 already scraped, skipping.
+2024-11-05 23:53:20,291 - Game 717768 already scraped, skipping.
+2024-11-05 23:53:20,291 - Game 717764 already scraped, skipping.
+2024-11-05 23:53:20,291 - Game 717770 already scraped, skipping.
+2024-11-05 23:53:20,291 - Game 717784 already scraped, skipping.
+2024-11-05 23:53:20,291 - Game 717771 already scraped, skipping.
+2024-11-05 23:53:20,291 - Game 717746 already scraped, skipping.
+2024-11-05 23:53:20,291 - Game 717756 already scraped, skipping.
+2024-11-05 23:53:20,291 - Game 717754 already scraped, skipping.
+2024-11-05 23:53:20,291 - Game 717747 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717755 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717748 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717753 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717750 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717751 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717752 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717737 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717735 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717745 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717740 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717744 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717739 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717731 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717733 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717743 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717749 already scraped, skipping.
+2024-11-05 23:53:20,292 - Game 717732 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717741 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717742 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717736 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717738 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717727 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717725 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717724 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717720 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717729 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717719 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717721 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717722 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717718 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717734 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717717 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717723 already scraped, skipping.
+2024-11-05 23:53:20,293 - Game 717726 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717728 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717707 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717705 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717716 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717710 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717708 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717706 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717702 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717704 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717713 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717714 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717703 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717709 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717715 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717730 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717712 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717711 already scraped, skipping.
+2024-11-05 23:53:20,294 - Game 717694 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717696 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717697 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717700 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717699 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717698 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717701 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717692 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717693 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717695 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717678 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717682 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717680 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717688 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717679 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717690 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717691 already scraped, skipping.
+2024-11-05 23:53:20,295 - Game 717689 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717686 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717687 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717685 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717681 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717683 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717675 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717684 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717662 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717670 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717672 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717674 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717663 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717676 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717673 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717671 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717677 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717669 already scraped, skipping.
+2024-11-05 23:53:20,296 - Game 717668 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717665 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717667 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717666 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717661 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717660 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717654 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717847 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717657 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717659 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717658 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717652 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717646 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717643 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717641 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717648 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717653 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717651 already scraped, skipping.
+2024-11-05 23:53:20,297 - Game 717642 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717656 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717649 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717650 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717644 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717647 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717645 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717655 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717634 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717637 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717626 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717639 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717625 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717630 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717628 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717638 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717635 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717632 already scraped, skipping.
+2024-11-05 23:53:20,298 - Game 717631 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717640 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717633 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717629 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717636 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717617 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717623 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717615 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717612 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717613 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717620 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717627 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717610 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717624 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717619 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717618 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717616 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717621 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717614 already scraped, skipping.
+2024-11-05 23:53:20,299 - Game 717622 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717608 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717609 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717602 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717607 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717611 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717606 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717592 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717595 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717604 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717600 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717598 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717596 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717593 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717590 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717597 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717601 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717603 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717599 already scraped, skipping.
+2024-11-05 23:53:20,300 - Game 717605 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717594 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717591 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717576 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717579 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717586 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717588 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717582 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717584 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717575 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717587 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717581 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717589 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717585 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717580 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717583 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717578 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717577 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717560 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717574 already scraped, skipping.
+2024-11-05 23:53:20,301 - Game 717564 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717566 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717567 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717568 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717565 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717571 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717570 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717569 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717572 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717573 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717549 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717551 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717555 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717558 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717559 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717548 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717556 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717561 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717563 already scraped, skipping.
+2024-11-05 23:53:20,302 - Game 717562 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717554 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717557 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717552 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717553 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717533 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717538 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717547 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717536 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717545 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717550 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717546 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717534 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717535 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717541 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717543 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717540 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717542 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717539 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717544 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717537 already scraped, skipping.
+2024-11-05 23:53:20,303 - Game 717522 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717518 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717530 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717532 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717524 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717521 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717519 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717525 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717529 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717528 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717531 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717520 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717526 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717523 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717527 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717511 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717506 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717516 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717512 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717515 already scraped, skipping.
+2024-11-05 23:53:20,304 - Game 717517 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717505 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717514 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717510 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717513 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717504 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717503 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717498 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717492 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717509 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717495 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717502 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717507 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717497 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717499 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717501 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717494 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717500 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717496 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717508 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717489 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717483 already scraped, skipping.
+2024-11-05 23:53:20,305 - Game 717477 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717479 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717490 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717486 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717488 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717493 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717478 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717491 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717484 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717485 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717482 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717487 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717467 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717474 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717470 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717462 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717469 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717473 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717481 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717472 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717471 already scraped, skipping.
+2024-11-05 23:53:20,306 - Game 717476 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717468 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717480 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717475 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717453 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717459 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717452 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717456 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717448 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717463 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717466 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717465 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717454 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717460 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717461 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717457 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717458 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717455 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717464 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717440 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717444 already scraped, skipping.
+2024-11-05 23:53:20,307 - Game 717439 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717437 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717451 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717443 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717438 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717450 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717436 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717441 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717449 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717442 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717446 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717445 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717447 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717430 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717427 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717425 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717422 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717434 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717426 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717432 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717423 already scraped, skipping.
+2024-11-05 23:53:20,308 - Game 717429 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717435 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717431 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717428 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717424 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717433 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717405 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717409 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717420 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717414 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717407 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717419 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717406 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717413 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717417 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717418 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717416 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717415 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717412 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717410 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717389 already scraped, skipping.
+2024-11-05 23:53:20,309 - Game 717399 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717404 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717395 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717396 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717403 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717390 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717400 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717401 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717397 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717408 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717398 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717402 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717392 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717394 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717393 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717411 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717381 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717379 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717386 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717391 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717380 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717376 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717373 already scraped, skipping.
+2024-11-05 23:53:20,310 - Game 717385 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717384 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717387 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717388 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717377 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717383 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717378 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717382 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717369 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717366 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717374 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717370 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717365 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717372 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717371 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717367 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717375 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717368 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717352 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717349 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717362 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717358 already scraped, skipping.
+2024-11-05 23:53:20,311 - Game 717357 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717353 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717350 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717359 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717361 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717363 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717364 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717354 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717360 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717355 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717356 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717339 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717344 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717338 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717340 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717351 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717336 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717335 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717341 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717343 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717347 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717348 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717346 already scraped, skipping.
+2024-11-05 23:53:20,312 - Game 717342 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717345 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717333 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717323 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717331 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717337 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717322 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717327 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717330 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717329 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717328 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717334 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717332 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717312 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717310 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717313 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717325 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717315 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717311 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717319 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717326 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717316 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717320 already scraped, skipping.
+2024-11-05 23:53:20,313 - Game 717324 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717321 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717317 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717314 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717318 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717297 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717295 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717296 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717308 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717302 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717301 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717306 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717307 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717305 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717300 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717309 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717303 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717299 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717293 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717304 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717278 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717279 already scraped, skipping.
+2024-11-05 23:53:20,314 - Game 717287 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717286 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717283 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717281 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717292 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717290 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717284 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717291 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717298 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717289 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717288 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717285 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717294 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717274 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717273 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717268 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717271 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717277 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717282 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717276 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717280 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 718558 already scraped, skipping.
+2024-11-05 23:53:20,315 - Game 717275 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717255 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717262 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717259 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717256 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717272 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717260 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717269 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717258 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717267 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717270 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717261 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717265 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717264 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717263 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717266 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717239 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717254 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717244 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717253 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717251 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717249 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717257 already scraped, skipping.
+2024-11-05 23:53:20,316 - Game 717246 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717245 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717252 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717242 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717250 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717240 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717248 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717238 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717241 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717243 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717247 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717233 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717229 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717235 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717231 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717226 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717223 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717225 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717220 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717236 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717230 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717237 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717224 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717234 already scraped, skipping.
+2024-11-05 23:53:20,317 - Game 717227 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717232 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717228 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717214 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717222 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717211 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717213 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717210 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717205 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717221 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717218 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717215 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717219 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717209 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717216 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717212 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717207 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717217 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717196 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717201 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717206 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717195 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717193 already scraped, skipping.
+2024-11-05 23:53:20,318 - Game 717194 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717197 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717202 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717203 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717200 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717191 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717208 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717199 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717198 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717204 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717184 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717186 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717187 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717188 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717190 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717181 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717189 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717192 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717179 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717185 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717172 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717177 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717176 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717174 already scraped, skipping.
+2024-11-05 23:53:20,319 - Game 717173 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717171 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717180 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717167 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717182 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717183 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717178 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717168 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717169 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717170 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717175 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717163 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717157 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717165 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717155 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717153 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717154 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717164 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717161 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717159 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717162 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717166 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717152 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717158 already scraped, skipping.
+2024-11-05 23:53:20,320 - Game 717156 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717160 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717144 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717150 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717143 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717145 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717146 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717137 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717151 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717147 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717149 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717148 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717142 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717130 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717131 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717127 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717141 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717132 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717134 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717129 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717140 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717133 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717136 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717139 already scraped, skipping.
+2024-11-05 23:53:20,321 - Game 717135 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717128 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717138 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717109 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717117 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717116 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717119 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717121 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717115 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717114 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717112 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717123 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717124 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717125 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717120 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717122 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717118 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717126 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717101 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717100 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717105 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717099 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717098 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717108 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717107 already scraped, skipping.
+2024-11-05 23:53:20,322 - Game 717093 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717113 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717102 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717111 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717104 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717103 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717106 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717110 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717090 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717081 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717086 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717087 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717092 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717094 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717095 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717089 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717097 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717091 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717088 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717068 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717069 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717078 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717073 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717074 already scraped, skipping.
+2024-11-05 23:53:20,323 - Game 717072 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717080 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717084 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717082 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717096 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717079 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717085 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717077 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717083 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717076 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717075 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717071 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717063 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717065 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717057 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717060 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717055 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717062 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717067 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717066 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717058 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717064 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717059 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717070 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717061 already scraped, skipping.
+2024-11-05 23:53:20,324 - Game 717054 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717045 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717052 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717053 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717049 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717056 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717048 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717051 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717050 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717037 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717041 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717035 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717032 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717031 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717034 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717047 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717040 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717043 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717044 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717046 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717038 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717042 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717039 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717036 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717022 already scraped, skipping.
+2024-11-05 23:53:20,325 - Game 717026 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717020 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717017 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717029 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717018 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717025 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717021 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 718371 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717030 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717028 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717024 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717033 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717019 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717023 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717004 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717012 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717003 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717007 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717008 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717005 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717011 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717013 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717016 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717009 already scraped, skipping.
+2024-11-05 23:53:20,326 - Game 717015 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 717027 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 717010 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 717014 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 717006 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 717001 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716995 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716999 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 717000 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 717002 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716996 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716997 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716998 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716994 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716990 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716987 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716984 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716986 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716979 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716989 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716991 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716988 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716993 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716980 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716985 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716992 already scraped, skipping.
+2024-11-05 23:53:20,327 - Game 716978 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716981 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716983 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716967 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716970 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716969 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716968 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716962 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716975 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716972 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716974 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716982 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716965 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716971 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716973 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716977 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716963 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716976 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716958 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716961 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716966 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716957 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716964 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716945 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716948 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716944 already scraped, skipping.
+2024-11-05 23:53:20,328 - Game 716949 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716952 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716955 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716946 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716956 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716959 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716960 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716942 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716950 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716954 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716947 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716951 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716953 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716915 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716925 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716932 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716930 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716934 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716940 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716937 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716909 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716926 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716939 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716941 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716919 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716931 already scraped, skipping.
+2024-11-05 23:53:20,329 - Game 716938 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716935 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716933 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716936 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716943 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716920 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716914 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716927 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716921 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716917 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716922 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716929 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716918 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716924 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716916 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716923 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716928 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716908 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716904 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716910 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716906 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716907 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716911 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716912 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716913 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716905 already scraped, skipping.
+2024-11-05 23:53:20,330 - Game 716892 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716895 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716888 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716891 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716894 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716889 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716897 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716902 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716887 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716899 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716901 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716898 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716896 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716893 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716900 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716890 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716903 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716878 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716884 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716876 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716882 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716875 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716874 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716883 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716879 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716886 already scraped, skipping.
+2024-11-05 23:53:20,331 - Game 716880 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716885 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716881 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716877 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716873 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716868 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716871 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716865 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716870 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716869 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716867 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716864 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716872 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716860 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716857 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716851 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716852 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716853 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716863 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716855 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716859 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716861 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716862 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716854 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716866 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716858 already scraped, skipping.
+2024-11-05 23:53:20,332 - Game 716850 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716856 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716846 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716838 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716833 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716848 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716832 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716844 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716840 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716837 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716847 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716842 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716845 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716849 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716843 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716839 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716841 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716825 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716822 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716821 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716819 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716820 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716827 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716829 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716836 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716835 already scraped, skipping.
+2024-11-05 23:53:20,333 - Game 716834 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716828 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716831 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716830 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716824 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716826 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716816 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716809 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716810 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716805 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716823 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716804 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716818 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716815 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716817 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716814 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716812 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716811 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716808 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716813 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716801 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716797 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716798 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716792 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716803 already scraped, skipping.
+2024-11-05 23:53:20,334 - Game 716790 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716807 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716799 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716800 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716806 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716802 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716791 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716793 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716795 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716796 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716785 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716782 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716779 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716774 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716789 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716788 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716778 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716783 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716786 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716787 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716794 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716773 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716780 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716781 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716784 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716768 already scraped, skipping.
+2024-11-05 23:53:20,335 - Game 716776 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716777 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716775 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716763 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716758 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716765 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716766 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716756 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716757 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716767 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716769 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716771 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716761 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716772 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716770 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 718700 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716759 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716764 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716762 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716746 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716755 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716745 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716744 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716747 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716741 already scraped, skipping.
+2024-11-05 23:53:20,336 - Game 716754 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716751 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716760 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716743 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716752 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716753 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716748 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716750 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716749 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716735 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716731 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716736 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716733 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716732 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716725 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716729 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716742 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716740 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716728 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716737 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716738 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716730 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716739 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716734 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716713 already scraped, skipping.
+2024-11-05 23:53:20,337 - Game 716726 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716723 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716721 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716719 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716720 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716718 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716724 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716722 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716727 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716681 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716706 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716707 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716709 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716708 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716702 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716717 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716710 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716715 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716703 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716714 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716705 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716716 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716712 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716704 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716711 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716690 already scraped, skipping.
+2024-11-05 23:53:20,338 - Game 716698 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716689 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716699 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716692 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716700 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716695 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716701 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716691 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716697 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716687 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716696 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716693 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716688 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716694 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716684 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716680 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716685 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716682 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716683 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716686 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716667 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716669 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716673 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716674 already scraped, skipping.
+2024-11-05 23:53:20,339 - Game 716678 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716668 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716676 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716679 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716665 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716671 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716672 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716677 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716675 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716666 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716670 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716650 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716649 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716661 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716651 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716660 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716663 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716662 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716653 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716657 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716656 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716664 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716655 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716658 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716654 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716659 already scraped, skipping.
+2024-11-05 23:53:20,340 - Game 716633 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716640 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716641 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716644 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716638 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716634 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716647 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716643 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716637 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716645 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716652 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716642 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716648 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716639 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716646 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716624 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716630 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716626 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716622 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716632 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716623 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716627 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716636 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716590 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 717664 already scraped, skipping.
+2024-11-05 23:53:20,341 - Game 716635 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716625 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716629 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716614 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716616 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716610 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716608 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716619 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716606 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716615 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716621 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716618 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716620 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716612 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716628 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716609 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716617 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716613 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716611 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716631 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716596 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716594 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716592 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716589 already scraped, skipping.
+2024-11-05 23:53:20,342 - Game 716605 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716602 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716595 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716604 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716603 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716600 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716599 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716601 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716607 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716598 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716587 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716585 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716588 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716586 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716591 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716593 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716597 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716584 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716580 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716570 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716569 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716576 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716578 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716572 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716567 already scraped, skipping.
+2024-11-05 23:53:20,343 - Game 716575 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716568 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716582 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716574 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716583 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716579 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716571 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716577 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716573 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716554 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716564 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716566 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716559 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716557 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716558 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716562 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716552 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716565 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716555 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716561 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716563 already scraped, skipping.
+2024-11-05 23:53:20,344 - Game 716550 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716581 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716560 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716556 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716544 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716538 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716548 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716543 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716541 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716536 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716549 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716537 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716546 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716545 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716553 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716551 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716540 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716547 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716542 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716530 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716527 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716532 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716531 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716528 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716535 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716539 already scraped, skipping.
+2024-11-05 23:53:20,345 - Game 716526 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716533 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716534 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716529 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716514 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716512 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716521 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716515 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716518 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716511 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716510 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716523 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716525 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716516 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716519 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716524 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716522 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716517 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716520 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716508 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716504 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716509 already scraped, skipping.
+2024-11-05 23:53:20,346 - Game 716495 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716497 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716499 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716494 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716503 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716513 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716500 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716507 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716501 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716506 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716505 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716502 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716488 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716491 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716493 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716484 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716489 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716496 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716490 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716498 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716492 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716473 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716472 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716486 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716474 already scraped, skipping.
+2024-11-05 23:53:20,347 - Game 716483 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716482 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716485 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716476 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716481 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716477 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716479 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716478 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716487 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716475 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716480 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716455 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716470 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716469 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716456 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716464 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716460 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716457 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716466 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716461 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716463 already scraped, skipping.
+2024-11-05 23:53:20,348 - Game 716468 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716462 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716465 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716448 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716442 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716449 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716439 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716450 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716447 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716459 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716467 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716444 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716454 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716446 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716452 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716451 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716445 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716458 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716440 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716441 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716436 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716471 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716422 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716431 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716429 already scraped, skipping.
+2024-11-05 23:53:20,349 - Game 716423 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716437 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716435 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716425 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716434 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716432 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716428 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716424 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716438 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716433 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716421 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716427 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716420 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716413 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716412 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716408 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716426 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716418 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716407 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716411 already scraped, skipping.
+2024-11-05 23:53:20,350 - Game 716430 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716416 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716415 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716419 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716406 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716414 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716410 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716417 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716403 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716399 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716396 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716397 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716402 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716409 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716405 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716401 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716400 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716443 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716386 already scraped, skipping.
+2024-11-05 23:53:20,351 - Game 716392 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716394 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716385 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716388 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716384 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716382 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716379 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716390 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716398 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716387 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716389 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716395 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716391 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716371 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716383 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716369 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716373 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716372 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716370 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716381 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716366 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716376 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716393 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716377 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716378 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716368 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716375 already scraped, skipping.
+2024-11-05 23:53:20,352 - Game 716380 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716374 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716365 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716357 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716354 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716364 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716353 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716358 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716363 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716360 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716355 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716367 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716362 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716359 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716352 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716361 already scraped, skipping.
+2024-11-05 23:53:20,353 - Game 716356 already scraped, skipping.

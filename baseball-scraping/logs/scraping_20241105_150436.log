@@ -1,0 +1,96 @@
+2024-11-05 15:04:38,397 - Starting scraping of 2427 games
+2024-11-05 15:04:42,484 - Failed to scrape game 718768: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.92)
+Stacktrace:
+0   chromedriver                        0x0000000105417ed4 cxxbridge1$str$ptr + 1906348
+1   chromedriver                        0x0000000105410344 cxxbridge1$str$ptr + 1874716
+2   chromedriver                        0x0000000105024264 cxxbridge1$string$len + 89492
+3   chromedriver                        0x0000000104fff728 core::str::slice_error_fail::hbaf5d05fe3921cd2 + 3776
+4   chromedriver                        0x000000010508ee90 cxxbridge1$string$len + 526784
+5   chromedriver                        0x00000001050a221c cxxbridge1$string$len + 605516
+6   chromedriver                        0x000000010505d134 cxxbridge1$string$len + 322660
+7   chromedriver                        0x000000010505dd84 cxxbridge1$string$len + 325812
+8   chromedriver                        0x00000001053dff90 cxxbridge1$str$ptr + 1677160
+9   chromedriver                        0x00000001053e48fc cxxbridge1$str$ptr + 1695956
+10  chromedriver                        0x00000001053c54b8 cxxbridge1$str$ptr + 1567888
+11  chromedriver                        0x00000001053e51cc cxxbridge1$str$ptr + 1698212
+12  chromedriver                        0x00000001053b6a60 cxxbridge1$str$ptr + 1507896
+13  chromedriver                        0x0000000105401214 cxxbridge1$str$ptr + 1812972
+14  chromedriver                        0x000000010540136c cxxbridge1$str$ptr + 1813316
+15  chromedriver                        0x000000010540ffe4 cxxbridge1$str$ptr + 1873852
+16  libsystem_pthread.dylib             0x00000001826b6034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x00000001826b0e3c thread_start + 8
+
+2024-11-05 15:04:43,492 - Failed to scrape game 718769: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.92)
+Stacktrace:
+0   chromedriver                        0x0000000105417ed4 cxxbridge1$str$ptr + 1906348
+1   chromedriver                        0x0000000105410344 cxxbridge1$str$ptr + 1874716
+2   chromedriver                        0x0000000105024264 cxxbridge1$string$len + 89492
+3   chromedriver                        0x0000000104fff728 core::str::slice_error_fail::hbaf5d05fe3921cd2 + 3776
+4   chromedriver                        0x000000010508ee90 cxxbridge1$string$len + 526784
+5   chromedriver                        0x00000001050a221c cxxbridge1$string$len + 605516
+6   chromedriver                        0x000000010505d134 cxxbridge1$string$len + 322660
+7   chromedriver                        0x000000010505dd84 cxxbridge1$string$len + 325812
+8   chromedriver                        0x00000001053dff90 cxxbridge1$str$ptr + 1677160
+9   chromedriver                        0x00000001053e48fc cxxbridge1$str$ptr + 1695956
+10  chromedriver                        0x00000001053c54b8 cxxbridge1$str$ptr + 1567888
+11  chromedriver                        0x00000001053e51cc cxxbridge1$str$ptr + 1698212
+12  chromedriver                        0x00000001053b6a60 cxxbridge1$str$ptr + 1507896
+13  chromedriver                        0x0000000105401214 cxxbridge1$str$ptr + 1812972
+14  chromedriver                        0x000000010540136c cxxbridge1$str$ptr + 1813316
+15  chromedriver                        0x000000010540ffe4 cxxbridge1$str$ptr + 1873852
+16  libsystem_pthread.dylib             0x00000001826b6034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x00000001826b0e3c thread_start + 8
+
+2024-11-05 15:04:44,504 - Failed to scrape game 718772: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.92)
+Stacktrace:
+0   chromedriver                        0x0000000105417ed4 cxxbridge1$str$ptr + 1906348
+1   chromedriver                        0x0000000105410344 cxxbridge1$str$ptr + 1874716
+2   chromedriver                        0x0000000105024264 cxxbridge1$string$len + 89492
+3   chromedriver                        0x0000000104fff728 core::str::slice_error_fail::hbaf5d05fe3921cd2 + 3776
+4   chromedriver                        0x000000010508ee90 cxxbridge1$string$len + 526784
+5   chromedriver                        0x00000001050a221c cxxbridge1$string$len + 605516
+6   chromedriver                        0x000000010505d134 cxxbridge1$string$len + 322660
+7   chromedriver                        0x000000010505dd84 cxxbridge1$string$len + 325812
+8   chromedriver                        0x00000001053dff90 cxxbridge1$str$ptr + 1677160
+9   chromedriver                        0x00000001053e48fc cxxbridge1$str$ptr + 1695956
+10  chromedriver                        0x00000001053c54b8 cxxbridge1$str$ptr + 1567888
+11  chromedriver                        0x00000001053e51cc cxxbridge1$str$ptr + 1698212
+12  chromedriver                        0x00000001053b6a60 cxxbridge1$str$ptr + 1507896
+13  chromedriver                        0x0000000105401214 cxxbridge1$str$ptr + 1812972
+14  chromedriver                        0x000000010540136c cxxbridge1$str$ptr + 1813316
+15  chromedriver                        0x000000010540ffe4 cxxbridge1$str$ptr + 1873852
+16  libsystem_pthread.dylib             0x00000001826b6034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x00000001826b0e3c thread_start + 8
+
+2024-11-05 15:04:45,515 - Failed to scrape game 718777: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=130.0.6723.92)
+Stacktrace:
+0   chromedriver                        0x0000000105417ed4 cxxbridge1$str$ptr + 1906348
+1   chromedriver                        0x0000000105410344 cxxbridge1$str$ptr + 1874716
+2   chromedriver                        0x0000000105024264 cxxbridge1$string$len + 89492
+3   chromedriver                        0x0000000104fff728 core::str::slice_error_fail::hbaf5d05fe3921cd2 + 3776
+4   chromedriver                        0x000000010508ee90 cxxbridge1$string$len + 526784
+5   chromedriver                        0x00000001050a221c cxxbridge1$string$len + 605516
+6   chromedriver                        0x000000010505d134 cxxbridge1$string$len + 322660
+7   chromedriver                        0x000000010505dd84 cxxbridge1$string$len + 325812
+8   chromedriver                        0x00000001053dff90 cxxbridge1$str$ptr + 1677160
+9   chromedriver                        0x00000001053e48fc cxxbridge1$str$ptr + 1695956
+10  chromedriver                        0x00000001053c54b8 cxxbridge1$str$ptr + 1567888
+11  chromedriver                        0x00000001053e51cc cxxbridge1$str$ptr + 1698212
+12  chromedriver                        0x00000001053b6a60 cxxbridge1$str$ptr + 1507896
+13  chromedriver                        0x0000000105401214 cxxbridge1$str$ptr + 1812972
+14  chromedriver                        0x000000010540136c cxxbridge1$str$ptr + 1813316
+15  chromedriver                        0x000000010540ffe4 cxxbridge1$str$ptr + 1873852
+16  libsystem_pthread.dylib             0x00000001826b6034 _pthread_start + 136
+17  libsystem_pthread.dylib             0x00000001826b0e3c thread_start + 8
+
+2024-11-05 15:04:45,667 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/ebee627c78a8eb8be3a60489e975fac1
+2024-11-05 15:04:45,668 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1064bf9d0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/ebee627c78a8eb8be3a60489e975fac1
+2024-11-05 15:04:45,669 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x1064bfa00>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/ebee627c78a8eb8be3a60489e975fac1

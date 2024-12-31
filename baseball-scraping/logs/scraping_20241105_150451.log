@@ -1,0 +1,50 @@
+2024-11-05 15:04:51,598 - Starting scraping of 2427 games
+2024-11-05 15:05:00,692 - Game 718768 scraped successfully in 9.05 seconds
+2024-11-05 15:05:10,019 - Game 718769 scraped successfully in 8.32 seconds
+2024-11-05 15:05:21,055 - Game 718772 scraped successfully in 10.03 seconds
+2024-11-05 15:05:31,130 - Game 718777 scraped successfully in 9.05 seconds
+2024-11-05 15:05:40,207 - Game 718770 scraped successfully in 8.06 seconds
+2024-11-05 15:05:49,860 - Game 718767 scraped successfully in 8.65 seconds
+2024-11-05 15:06:00,429 - Game 718774 scraped successfully in 9.56 seconds
+2024-11-05 15:06:10,788 - Game 718780 scraped successfully in 9.35 seconds
+2024-11-05 15:07:20,767 - Game 718778 scraped successfully in 68.97 seconds
+2024-11-05 15:07:31,103 - Game 718779 scraped successfully in 9.33 seconds
+2024-11-05 15:08:40,674 - Game 718776 scraped successfully in 68.56 seconds
+2024-11-05 15:08:51,994 - Game 718782 scraped successfully in 10.31 seconds
+2024-11-05 15:09:02,908 - Game 718773 scraped successfully in 9.91 seconds
+2024-11-05 15:09:13,401 - Game 718775 scraped successfully in 9.48 seconds
+2024-11-05 15:09:22,983 - Game 718781 scraped successfully in 8.57 seconds
+2024-11-05 15:09:33,300 - Game 718764 scraped successfully in 9.31 seconds
+2024-11-05 15:09:43,265 - Game 718765 scraped successfully in 8.96 seconds
+2024-11-05 15:09:53,426 - Game 718763 scraped successfully in 9.16 seconds
+2024-11-05 15:10:03,509 - Game 718771 scraped successfully in 9.07 seconds
+2024-11-05 15:10:12,840 - Game 718766 scraped successfully in 8.32 seconds
+2024-11-05 15:10:22,773 - Game 718760 scraped successfully in 8.93 seconds
+2024-11-05 15:11:35,084 - Game 718757 scraped successfully in 71.30 seconds
+2024-11-05 15:11:45,372 - Game 718759 scraped successfully in 9.28 seconds
+2024-11-05 15:11:55,425 - Game 718758 scraped successfully in 9.05 seconds
+2024-11-05 15:12:05,868 - Game 718749 scraped successfully in 9.44 seconds
+2024-11-05 15:12:15,696 - Game 718746 scraped successfully in 8.82 seconds
+2024-11-05 15:12:26,543 - Game 718755 scraped successfully in 9.84 seconds
+2024-11-05 15:12:36,455 - Game 718753 scraped successfully in 8.91 seconds
+2024-11-05 15:12:47,458 - Game 718750 scraped successfully in 10.00 seconds
+2024-11-05 15:12:58,978 - Game 718752 scraped successfully in 10.52 seconds
+2024-11-05 15:13:09,206 - Game 718754 scraped successfully in 9.22 seconds
+2024-11-05 15:13:19,649 - Game 718761 scraped successfully in 9.43 seconds
+2024-11-05 15:13:29,458 - Game 718756 scraped successfully in 8.81 seconds
+2024-11-05 15:13:38,619 - Game 718751 scraped successfully in 8.15 seconds
+2024-11-05 15:13:48,534 - Game 718762 scraped successfully in 8.91 seconds
+2024-11-05 15:13:58,539 - Game 718740 scraped successfully in 9.00 seconds
+2024-11-05 15:14:07,763 - Game 718734 scraped successfully in 8.22 seconds
+2024-11-05 15:14:17,648 - Game 718737 scraped successfully in 8.88 seconds
+2024-11-05 15:14:27,640 - Game 718738 scraped successfully in 8.99 seconds
+2024-11-05 15:14:37,743 - Game 718736 scraped successfully in 9.10 seconds
+2024-11-05 15:14:49,799 - Game 718735 scraped successfully in 11.05 seconds
+2024-11-05 15:15:02,021 - Game 718741 scraped successfully in 11.22 seconds
+2024-11-05 15:15:11,365 - Game 718743 scraped successfully in 8.34 seconds
+2024-11-05 15:15:21,219 - Game 718733 scraped successfully in 8.85 seconds
+2024-11-05 15:15:31,513 - Game 718739 scraped successfully in 9.29 seconds
+2024-11-05 15:15:42,298 - Game 718742 scraped successfully in 9.78 seconds
+2024-11-05 15:15:50,812 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/53ce2975228b2c48d0a9d90ded14e9e2
+2024-11-05 15:15:50,813 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106698be0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/53ce2975228b2c48d0a9d90ded14e9e2
+2024-11-05 15:15:50,814 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x106698af0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/53ce2975228b2c48d0a9d90ded14e9e2

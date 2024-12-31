@@ -1,0 +1,5 @@
+2024-11-05 23:12:36,404 - Starting scraping of 627 games
+2024-11-05 23:12:36,450 - Game 716967 exists but has incomplete data, re-scraping.
+2024-11-05 23:12:47,226 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104979b20>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/ad93aa5525587d9a57466b392c8ff1b4
+2024-11-05 23:12:47,235 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104d50af0>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/ad93aa5525587d9a57466b392c8ff1b4
+2024-11-05 23:12:47,251 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104d50b20>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/ad93aa5525587d9a57466b392c8ff1b4

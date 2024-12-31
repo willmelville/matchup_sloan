@@ -1,0 +1,33 @@
+2024-11-06 00:05:54,242 - Starting scraping of 1827 games
+2024-11-06 00:05:54,262 - Game 718178 already scraped with complete data, skipping.
+2024-11-06 00:05:54,272 - Game 718186 already scraped with complete data, skipping.
+2024-11-06 00:05:54,280 - Game 718179 already scraped with complete data, skipping.
+2024-11-06 00:05:54,282 - Game 718187 already scraped with complete data, skipping.
+2024-11-06 00:05:54,287 - Game 718174 already scraped with complete data, skipping.
+2024-11-06 00:05:54,291 - Game 718173 already scraped with complete data, skipping.
+2024-11-06 00:05:54,291 - Game 718175 already scraped with complete data, skipping.
+2024-11-06 00:05:54,295 - Game 718176 already scraped with complete data, skipping.
+2024-11-06 00:05:54,295 - Game 718180 already scraped with complete data, skipping.
+2024-11-06 00:05:54,299 - Game 718158 already scraped with complete data, skipping.
+2024-11-06 00:05:54,300 - Game 718160 already scraped with complete data, skipping.
+2024-11-06 00:05:54,300 - Game 718164 already scraped with complete data, skipping.
+2024-11-06 00:05:54,304 - Game 718166 already scraped with complete data, skipping.
+2024-11-06 00:05:54,305 - Game 718159 already scraped with complete data, skipping.
+2024-11-06 00:05:54,308 - Game 718170 already scraped with complete data, skipping.
+2024-11-06 00:05:54,309 - Game 718167 already scraped with complete data, skipping.
+2024-11-06 00:05:54,309 - Game 718171 already scraped with complete data, skipping.
+2024-11-06 00:05:54,312 - Game 718162 already scraped with complete data, skipping.
+2024-11-06 00:05:54,313 - Game 718165 already scraped with complete data, skipping.
+2024-11-06 00:05:54,313 - Game 718163 already scraped with complete data, skipping.
+2024-11-06 00:05:54,317 - Game 718161 already scraped with complete data, skipping.
+2024-11-06 00:05:54,321 - Game 718152 already scraped with complete data, skipping.
+2024-11-06 00:05:54,321 - Game 718146 already scraped with complete data, skipping.
+2024-11-06 00:05:54,325 - Game 718157 already scraped with complete data, skipping.
+2024-11-06 00:05:54,325 - Game 718151 already scraped with complete data, skipping.
+2024-11-06 00:05:54,329 - Game 718141 already scraped with complete data, skipping.
+2024-11-06 00:05:54,330 - Game 718156 already scraped with complete data, skipping.
+2024-11-06 00:05:54,330 - Game 718153 already scraped with complete data, skipping.
+2024-11-06 00:05:54,334 - Game 718150 exists but has incomplete data, re-scraping.
+2024-11-06 00:06:39,243 - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(54, 'Connection reset by peer')': /session/bd3c573c2c8f99d1c4300683416128c5
+2024-11-06 00:06:39,255 - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104604910>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/bd3c573c2c8f99d1c4300683416128c5
+2024-11-06 00:06:39,257 - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x104604940>: Failed to establish a new connection: [Errno 61] Connection refused')': /session/bd3c573c2c8f99d1c4300683416128c5
